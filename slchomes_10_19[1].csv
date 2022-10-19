@@ -1,0 +1,659 @@
+address,beds,baths,area,price,zestimate,best_deal,price per sq ft,detailUrl
+"633 S 800 E, Orem, UT 84097",2,1.0,2646,"$410,000",556100,-146100,154.95086923658351,https://www.zillow.com/homedetails/633-S-800-E-Orem-UT-84097/11920640_zpid/
+"1553 E Clayton St, Tooele, UT 84074",3,3.0,2014,"$525,000",648300,-123300,260.67527308838135,https://www.zillow.com/homedetails/1553-E-Clayton-St-Tooele-UT-84074/68861251_zpid/
+"1430 S Lincoln St, Salt Lake City, UT 84105",5,4.0,3831,"$875,000",936825,-61825,228.39989558861916,https://www.zillow.com/homedetails/1430-S-Lincoln-St-Salt-Lake-City-UT-84105/12769219_zpid/
+"6782 S Empress Ln, West Jordan, UT 84081",3,2.0,1575,"$428,000",483500,-55500,271.74603174603175,https://www.zillow.com/homedetails/6782-S-Empress-Ln-West-Jordan-UT-84081/83826839_zpid/
+"1556 E Federal Heights Dr, Salt Lake City, UT 84103",5,5.0,5491,"$2,275,000",2328200,-53200,414.31433254416316,https://www.zillow.com/homedetails/1556-E-Federal-Heights-Dr-Salt-Lake-City-UT-84103/12722078_zpid/
+"3285 S Davis Blvd, Bountiful, UT 84010",5,4.0,3168,"$659,900",713000,-53100,208.30176767676767,https://www.zillow.com/homedetails/3285-S-Davis-Blvd-Bountiful-UT-84010/68441294_zpid/
+"496 W Vine St, Salt Lake City, UT 84123",4,3.0,2440,"$530,000",580600,-50600,217.21311475409837,https://www.zillow.com/homedetails/496-W-Vine-St-Salt-Lake-City-UT-84123/12823846_zpid/
+"930 W 600 S, Provo, UT 84601",1,1.0,782,"$299,900",349200,-49300,383.50383631713555,https://www.zillow.com/homedetails/930-W-600-S-Provo-UT-84601/11887548_zpid/
+"152 S Dry Creek Ln, Vineyard, UT 84059",4,3.0,3814,"$695,000",744300,-49300,182.22338751966439,https://www.zillow.com/homedetails/152-S-Dry-Creek-Ln-Vineyard-UT-84059/190536760_zpid/
+"2344 E Sublette Pl, Sandy, UT 84093",6,3.0,3858,"$825,000",873100,-48100,213.84136858475895,https://www.zillow.com/homedetails/2344-E-Sublette-Pl-Sandy-UT-84093/12886605_zpid/
+"897 N Opal Ln, Tooele, UT 84074",3,3.0,1590,"$355,000",402300,-47300,223.27044025157232,https://www.zillow.com/homedetails/897-N-Opal-Ln-Tooele-UT-84074/96639539_zpid/
+"3306 W Florlita Ave, West Valley, UT 84119",4,3.0,1942,"$355,000",400600,-45600,182.80123583934088,https://www.zillow.com/homedetails/3306-W-Florlita-Ave-West-Valley-UT-84119/12749974_zpid/
+"428 E Edith Ave, Salt Lake City, UT 84111",3,1.0,1811,"$499,900",545400,-45500,276.035339591386,https://www.zillow.com/homedetails/428-E-Edith-Ave-Salt-Lake-City-UT-84111/12758092_zpid/
+"851 W Clover Meadow Dr, Murray, UT 84123",5,2.0,2480,"$499,900",542600,-42700,201.57258064516128,https://www.zillow.com/homedetails/851-W-Clover-Meadow-Dr-Murray-UT-84123/12823479_zpid/
+"2165 S 1125 E, Bountiful, UT 84010",4,2.0,1980,"$350,000",388965,-38965,176.76767676767676,https://www.zillow.com/homedetails/2165-S-1125-E-Bountiful-UT-84010/12672633_zpid/
+"985 Maple St, Ogden, UT 84403",6,3.0,2408,"$400,000",437200,-37200,166.11295681063123,https://www.zillow.com/homedetails/985-Maple-St-Ogden-UT-84403/11968132_zpid/
+"171 S 3475 W, Layton, UT 84041",4,3.0,2840,"$572,000",609100,-37100,201.40845070422534,https://www.zillow.com/homedetails/171-S-3475-W-Layton-UT-84041/94678652_zpid/
+"6580 S 2600 E, Salt Lake City, UT 84121",4,3.0,2634,"$599,000",635600,-36600,227.41078208048594,https://www.zillow.com/homedetails/6580-S-2600-E-Salt-Lake-City-UT-84121/12872239_zpid/
+"4440 S 2525 W, Roy, UT 84067",5,2.0,2094,"$350,000",385400,-35400,167.14422158548234,https://www.zillow.com/homedetails/4440-S-2525-W-Roy-UT-84067/11981718_zpid/
+"110 S 800 E APT 405, Salt Lake City, UT 84102",2,1.0,986,"$309,000",339300,-30300,313.3874239350913,https://www.zillow.com/homedetails/110-S-800-E-APT-405-Salt-Lake-City-UT-84102/12752885_zpid/
+"5276 S Samuel Ct, Taylorsville, UT 84129",4,2.0,2016,"$430,000",459600,-29600,213.29365079365078,https://www.zillow.com/homedetails/5276-S-Samuel-Ct-Taylorsville-UT-84129/12821391_zpid/
+"2869 W Chestnut St, Lehi, UT 84043",5,4.0,3116,"$570,000",599500,-29500,182.9268292682927,https://www.zillow.com/homedetails/2869-W-Chestnut-St-Lehi-UT-84043/82729476_zpid/
+"2673 W 4175 S, Roy, UT 84067",5,3.0,1954,"$429,900",458800,-28900,220.0102354145343,https://www.zillow.com/homedetails/2673-W-4175-S-Roy-UT-84067/11983991_zpid/
+"2533 S 500 E, Salt Lake City, UT 84106",3,2.0,1784,"$430,000",455964,-25964,241.03139013452915,https://www.zillow.com/homedetails/2533-S-500-E-Salt-Lake-City-UT-84106/12774961_zpid/
+"339 Farm Meadow Rd, Farmington, UT 84025",3,3.0,2434,"$525,000",550000,-25000,215.69433032046015,https://www.zillow.com/homedetails/339-Farm-Meadow-Rd-Farmington-UT-84025/83227331_zpid/
+"8969 S Flat Iron Dr, Sandy, UT 84093",4,2.0,2214,"$600,000",625000,-25000,271.00271002710025,https://www.zillow.com/homedetails/8969-S-Flat-Iron-Dr-Sandy-UT-84093/12908490_zpid/
+"2266 W 5100 S, Roy, UT 84067",4,3.0,2825,"$375,000",400000,-25000,132.7433628318584,https://www.zillow.com/homedetails/2266-W-5100-S-Roy-UT-84067/11985022_zpid/
+"308 N 100 E, Hinckley, UT 84635",3,1.0,1146,"$155,000",178900,-23900,135.25305410122164,https://www.zillow.com/homedetails/308-N-100-E-Hinckley-UT-84635/194621398_zpid/
+"2146 S 1840 W, Syracuse, UT 84075",6,3.0,2714,"$535,000",558800,-23800,197.12601326455416,https://www.zillow.com/homedetails/2146-S-1840-W-Syracuse-UT-84075/68435949_zpid/
+"903 E Lafayette St, Sandy, UT 84094",5,3.0,2558,"$589,000",611400,-22400,230.2580140734949,https://www.zillow.com/homedetails/903-E-Lafayette-St-Sandy-UT-84094/12922352_zpid/
+"4691 W Woodcutter Ln, West Valley, UT 84120",5,2.0,2266,"$455,000",476100,-21100,200.79435127978817,https://www.zillow.com/homedetails/4691-W-Woodcutter-Ln-West-Valley-UT-84120/12745697_zpid/
+"4156 W 1800 N, Lehi, UT 84043",6,3.0,2820,"$549,000",569004,-20004,194.68085106382978,https://www.zillow.com/homedetails/4156-W-1800-N-Lehi-UT-84043/306583039_zpid/
+"1234 N 3200 W, West Pt, UT 84015",4,2.0,1591,"$440,000",460000,-20000,276.5556253928347,https://www.zillow.com/homedetails/1234-N-3200-W-West-Pt-UT-84015/12708823_zpid/
+"316 E Garfield Ave, Salt Lake City, UT 84115",2,1.0,945,"$415,000",434500,-19500,439.15343915343914,https://www.zillow.com/homedetails/316-E-Garfield-Ave-Salt-Lake-City-UT-84115/12772671_zpid/
+"1079 E 8320 S, Sandy, UT 84094",4,3.0,2120,"$425,000",443100,-18100,200.47169811320754,https://www.zillow.com/homedetails/1079-E-8320-S-Sandy-UT-84094/12883721_zpid/
+"2901 S 3860 W, West Valley, UT 84120",5,2.0,1706,"$364,900",382300,-17400,213.8921453692849,https://www.zillow.com/homedetails/2901-S-3860-W-West-Valley-UT-84120/12744488_zpid/
+"1286 E 900 S, Pleasant Grove, UT 84062",5,4.0,2633,"$579,000",596313,-17313,219.90125332320548,https://www.zillow.com/homedetails/1286-E-900-S-Pleasant-Grove-UT-84062/11909302_zpid/
+"146 W 100 N, Spanish Fork, UT 84660",4,2.0,2170,"$370,000",387100,-17100,170.50691244239633,https://www.zillow.com/homedetails/146-W-100-N-Spanish-Fork-UT-84660/11890774_zpid/
+"42 S Mustang Rdg, Grantsville, UT 84029",6,3.0,3231,"$559,900",576600,-16700,173.29000309501703,https://www.zillow.com/homedetails/42-S-Mustang-Rdg-Grantsville-UT-84029/331494150_zpid/
+"7989 W Gompers Ave, Magna, UT 84044",3,2.0,2396,"$378,000",394400,-16400,157.76293823038398,https://www.zillow.com/homedetails/7989-W-Gompers-Ave-Magna-UT-84044/12725627_zpid/
+"214 E 8375 S, Sandy, UT 84070",3,2.0,1160,"$360,000",375700,-15700,310.3448275862069,https://www.zillow.com/homedetails/214-E-8375-S-Sandy-UT-84070/12881648_zpid/
+"996 E 430 S, Santaquin, UT 84655",6,3.0,3594,"$624,900",640037,-15137,173.87312186978298,https://www.zillow.com/homedetails/996-E-430-S-Santaquin-UT-84655/68836623_zpid/
+"10822 S Wynview Ln, South Jordan, UT 84095",4,4.0,2063,"$447,900",461100,-13200,217.11100339311682,https://www.zillow.com/homedetails/10822-S-Wynview-Ln-South-Jordan-UT-84095/65730621_zpid/
+"2007 E Brookings Dr, Draper, UT 84020",4,3.0,2730,"$675,000",687600,-12600,247.25274725274724,https://www.zillow.com/homedetails/2007-E-Brookings-Dr-Draper-UT-84020/117647222_zpid/
+"2270 E 4500 S APT 8A, Holladay, UT 84117",2,1.0,824,"$274,900",287400,-12500,333.61650485436894,https://www.zillow.com/homedetails/2270-E-4500-S-APT-8A-Holladay-UT-84117/12852049_zpid/
+"12269 S Black Canyon Rd, Herriman, UT 84096",4,3.0,2857,"$595,000",606700,-11700,208.26041302065104,https://www.zillow.com/homedetails/12269-S-Black-Canyon-Rd-Herriman-UT-84096/83817761_zpid/
+"112 W 2050 S, Clearfield, UT 84015",5,3.0,2377,"$425,000",436165,-11165,178.7968026924695,https://www.zillow.com/homedetails/112-W-2050-S-Clearfield-UT-84015/12701868_zpid/
+"782 Arrow St, Tooele, UT 84074",4,3.0,2131,"$399,900",411000,-11100,187.65837634913186,https://www.zillow.com/homedetails/782-Arrow-St-Tooele-UT-84074/68525572_zpid/
+"1245 26th St, Ogden, UT 84401",3,1.0,1474,"$350,000",359900,-9900,237.44911804613298,https://www.zillow.com/homedetails/1245-26th-St-Ogden-UT-84401/11962983_zpid/
+"644 Kershaw St, Ogden, UT 84403",3,2.0,1760,"$309,900",319791,-9891,176.07954545454547,https://www.zillow.com/homedetails/644-Kershaw-St-Ogden-UT-84403/70395727_zpid/
+"1091 E 10600 S, Sandy, UT 84094",4,2.0,1976,"$450,000",459200,-9200,227.7327935222672,https://www.zillow.com/homedetails/1091-E-10600-S-Sandy-UT-84094/12922107_zpid/
+"1330 W 750 S, Clearfield, UT 84015",3,2.0,1848,"$369,900",378953,-9053,200.16233766233765,https://www.zillow.com/homedetails/1330-W-750-S-Clearfield-UT-84015/12699460_zpid/
+"14078 S Julien Cv, Bluffdale, UT 84065",3,3.0,1475,"$399,900",408700,-8800,271.1186440677966,https://www.zillow.com/homedetails/14078-S-Julien-Cv-Bluffdale-UT-84065/67699513_zpid/
+"1381 S 500 E, Kaysville, UT 84037",5,3.0,2039,"$560,000",568674,-8674,274.6444335458558,https://www.zillow.com/homedetails/1381-S-500-E-Kaysville-UT-84037/12681073_zpid/
+"553 W 2125 N, West Bountiful, UT 84087",5,2.0,2599,"$510,000",516900,-6900,196.22931896883418,https://www.zillow.com/homedetails/553-W-2125-N-West-Bountiful-UT-84087/12674075_zpid/
+"307 Bella Vida Dr, North Salt Lake, UT 84054",5,3.0,2904,"$650,000",656900,-6900,223.82920110192836,https://www.zillow.com/homedetails/307-Bella-Vida-Dr-North-Salt-Lake-UT-84054/116209638_zpid/
+"954 E 300 S, Provo, UT 84606",3,2.0,1258,"$400,000",406800,-6800,317.9650238473768,https://www.zillow.com/homedetails/954-E-300-S-Provo-UT-84606/11956283_zpid/
+"754 S 1650 E APT D, Clearfield, UT 84015",2,2.0,1070,"$250,000",256666,-6666,233.6448598130841,https://www.zillow.com/homedetails/754-S-1650-E-APT-D-Clearfield-UT-84015/12682722_zpid/
+"4406 S 2900 W, Roy, UT 84067",3,2.0,2100,"$410,000",416300,-6300,195.23809523809524,https://www.zillow.com/homedetails/4406-S-2900-W-Roy-UT-84067/11981044_zpid/
+"821 E Downington Ave, Salt Lake City, UT 84105",3,2.0,2111,"$645,000",650900,-5900,305.54239696826147,https://www.zillow.com/homedetails/821-E-Downington-Ave-Salt-Lake-City-UT-84105/12770410_zpid/
+"523 W Regal View Dr S, Saratoga Springs, UT 84045",4,3.0,3454,"$649,000",654800,-5800,187.89808917197453,https://www.zillow.com/homedetails/523-W-Regal-View-Dr-S-Saratoga-Springs-UT-84045/2067728429_zpid/
+"2261 S Browning Dr, Saratoga Springs, UT 84045",7,4.0,4540,"$684,999",690720,-5721,150.8808370044053,https://www.zillow.com/homedetails/2261-S-Browning-Dr-Saratoga-Springs-UT-84045/79767725_zpid/
+"378 N Main St, Kamas, UT 84036",2,1.0,1152,"$440,000",444800,-4800,381.94444444444446,https://www.zillow.com/homedetails/378-N-Main-St-Kamas-UT-84036/68842718_zpid/
+"4714 S Woodduck Ln, Salt Lake City, UT 84117",2,3.0,1208,"$349,800",354300,-4500,289.56953642384104,https://www.zillow.com/homedetails/4714-S-Woodduck-Ln-Salt-Lake-City-UT-84117/12858095_zpid/
+"8400 S 4000 W TRAILER 80, West Jordan, UT 84088",3,2.0,1300,"$160,000",164200,-4200,123.07692307692308,https://www.zillow.com/homedetails/8400-S-4000-W-TRAILER-80-West-Jordan-UT-84088/2082614475_zpid/
+"1119 W 4300 S UNIT 33C, Taylorsville, UT 84123",2,1.0,894,"$269,999",273800,-3801,302.0123042505593,https://www.zillow.com/homedetails/1119-W-4300-S-UNIT-33C-Taylorsville-UT-84123/12809754_zpid/
+"124 W 5050 S, Ogden, UT 84405",4,2.0,1862,"$354,900",358617,-3717,190.6015037593985,https://www.zillow.com/homedetails/124-W-5050-S-Ogden-UT-84405/11979824_zpid/
+"86 Bryner St, Helper, UT 84526",3,2.0,1678,"$237,500",240905,-3405,141.53754469606676,https://www.zillow.com/homedetails/86-Bryner-St-Helper-UT-84526/108146941_zpid/
+"450 E Utah Ave, Payson, UT 84651",4,2.0,2028,"$350,000",353365,-3365,172.58382642998026,https://www.zillow.com/homedetails/450-E-Utah-Ave-Payson-UT-84651/11892234_zpid/
+"1816 W Homestead Farms Ln APT 4, West Valley City, UT 84119",3,3.0,1333,"$320,000",322900,-2900,240.06001500375095,https://www.zillow.com/homedetails/1816-W-Homestead-Farms-Ln-APT-4-West-Valley-City-UT-84119/2067746358_zpid/
+"6991 W Herdan Cir #91, West Valley City, UT 84128",3,2.0,1100,"$95,000",97500,-2500,86.36363636363636,https://www.zillow.com/homedetails/6991-W-Herdan-Cir-91-West-Valley-City-UT-84128/2061480029_zpid/
+"10 W 1470 S, Farmington, UT 84025",4,1.0,1639,"$350,000",351699,-1699,213.54484441732765,https://www.zillow.com/homedetails/10-W-1470-S-Farmington-UT-84025/12678624_zpid/
+"1055 W 180 N, Orem, UT 84057",4,2.0,1969,"$449,900",451400,-1500,228.49162011173183,https://www.zillow.com/homedetails/1055-W-180-N-Orem-UT-84057/11924179_zpid/
+"281 E 950 S, Payson, UT 84651",3,2.0,1350,"$319,900",321400,-1500,236.96296296296296,https://www.zillow.com/homedetails/281-E-950-S-Payson-UT-84651/65204308_zpid/
+"819 S 690 W, Tooele, UT 84074",5,2.0,1940,"$394,000",395003,-1003,203.09278350515464,https://www.zillow.com/homedetails/819-S-690-W-Tooele-UT-84074/68861951_zpid/
+"120 Woodland Pl, Park City, UT 84098",4,3.0,1603,"$895,000",895700,-700,558.3281347473487,https://www.zillow.com/homedetails/120-Woodland-Pl-Park-City-UT-84098/68843500_zpid/
+"1207 E Fenway Ave, Salt Lake City, UT 84102",3,3.0,1944,"$665,000",665700,-700,342.0781893004115,https://www.zillow.com/homedetails/1207-E-Fenway-Ave-Salt-Lake-City-UT-84102/12755383_zpid/
+"607 N 200 W, Heber, UT 84032",2,2.0,1722,"$459,000",459700,-700,266.55052264808364,https://www.zillow.com/homedetails/607-N-200-W-Heber-UT-84032/75935221_zpid/
+"5650 W Braemar Ct, West Valley, UT 84128",3,3.0,1726,"$353,900",354500,-600,205.04055619930475,https://www.zillow.com/homedetails/5650-W-Braemar-Ct-West-Valley-UT-84128/12724473_zpid/
+"2601 S 8990 W, Magna, UT 84044",2,1.0,1118,"$299,000",299300,-300,267.4418604651163,https://www.zillow.com/homedetails/2601-S-8990-W-Magna-UT-84044/97756153_zpid/
+"35 Park Ave, Tooele, UT 84074",2,1.0,1026,"$230,000",230300,-300,224.17153996101365,https://www.zillow.com/homedetails/35-Park-Ave-Tooele-UT-84074/68859136_zpid/
+"1088 E 5235 S, Salt Lake City, UT 84117",3,2.0,1680,"$529,000",529296,-296,314.8809523809524,https://www.zillow.com/homedetails/1088-E-5235-S-Salt-Lake-City-UT-84117/12858895_zpid/
+"1993 W Celia Way, Layton, UT 84041",4,2.0,1950,"$399,900",400105,-205,205.07692307692307,https://www.zillow.com/homedetails/1993-W-Celia-Way-Layton-UT-84041/12688235_zpid/
+"472 Pioneer Ave, Tooele, UT 84074",4,2.0,2160,"$340,000",340200,-200,157.40740740740742,https://www.zillow.com/homedetails/472-Pioneer-Ave-Tooele-UT-84074/68861094_zpid/
+"1070 E Hunter Ln, Eagle Mountain, UT 84005",6,3.0,2490,"$539,900",540003,-103,216.8273092369478,https://www.zillow.com/homedetails/1070-E-Hunter-Ln-Eagle-Mountain-UT-84005/124443415_zpid/
+"1228 S 2700 E, Spanish Fork, UT 84660",5,3.0,2322,"$524,800",524902,-102,226.0120585701981,https://www.zillow.com/homedetails/1228-S-2700-E-Spanish-Fork-UT-84660/11916938_zpid/
+"497 E Tonalea Dr, Salt Lake City, UT 84107",2,2.0,1140,"$335,000",335101,-101,293.859649122807,https://www.zillow.com/homedetails/497-E-Tonalea-Dr-Salt-Lake-City-UT-84107/12866535_zpid/
+"4385 S 4000 W, Delta, UT 84624",4,2.0,1659,"$349,000",349100,-100,210.3676913803496,https://www.zillow.com/homedetails/4385-S-4000-W-Delta-UT-84624/194621696_zpid/
+"967 E Yale Ave, Salt Lake City, UT 84105",4,2.0,2332,"$775,000",775006,-6,332.3327615780446,https://www.zillow.com/homedetails/967-E-Yale-Ave-Salt-Lake-City-UT-84105/12759413_zpid/
+"11632 S Scare Crow Ct, South Jordan, UT 84009",5,3.0,2806,"$667,900",667906,-6,238.0256593014968,https://www.zillow.com/homedetails/11632-S-Scare-Crow-Ct-South-Jordan-UT-84009/35981518_zpid/
+"594 W 1870 S, Payson, UT 84651",3,2.0,3468,"$595,000",595005,-5,171.5686274509804,https://www.zillow.com/homedetails/594-W-1870-S-Payson-UT-84651/333095164_zpid/
+"3271 E 3900 S, Salt Lake City, UT 84124",4,2.0,2016,"$699,000",699004,-4,346.7261904761905,https://www.zillow.com/homedetails/3271-E-3900-S-Salt-Lake-City-UT-84124/12796089_zpid/
+"5237 W Freeman Peak Cir, Herriman, UT 84096",5,3.0,3372,"$675,000",675004,-4,200.1779359430605,https://www.zillow.com/homedetails/5237-W-Freeman-Peak-Cir-Herriman-UT-84096/61172656_zpid/
+"1026 E Searle Ln, Eagle Mountain, UT 84005",5,3.0,2872,"$575,000",575004,-4,200.20891364902508,https://www.zillow.com/homedetails/1026-E-Searle-Ln-Eagle-Mountain-UT-84005/190427788_zpid/
+"4638 E Brookwood Dr, Eagle Mountain, UT 84005",4,3.0,3518,"$550,000",550004,-4,156.33882888004547,https://www.zillow.com/homedetails/4638-E-Brookwood-Dr-Eagle-Mountain-UT-84005/122540883_zpid/
+"3758 E Gullane Rd, Eagle Mountain, UT 84005",4,4.0,2587,"$500,000",500003,-3,193.2740626207963,https://www.zillow.com/homedetails/3758-E-Gullane-Rd-Eagle-Mountain-UT-84005/82730160_zpid/
+"2190 N Aspen Dr, Scofield, UT 84526",4,2.0,2423,"$599,900",599903,-3,247.58563763929013,https://www.zillow.com/homedetails/2190-N-Aspen-Dr-Scofield-UT-84526/336863035_zpid/
+"4130 E Dakota Dr, Eagle Mountain, UT 84005",6,4.0,3305,"$620,000",620003,-3,187.5945537065053,https://www.zillow.com/homedetails/4130-E-Dakota-Dr-Eagle-Mountain-UT-84005/190523647_zpid/
+"2107 S Dakota Ave, Provo, UT 84606",5,2.0,1800,"$415,000",415003,-3,230.55555555555554,https://www.zillow.com/homedetails/2107-S-Dakota-Ave-Provo-UT-84606/11913778_zpid/
+"356 E Bayside Dr, Saratoga Springs, UT 84045",3,3.0,2733,"$425,000",425002,-2,155.50676911818513,https://www.zillow.com/homedetails/356-E-Bayside-Dr-Saratoga-Springs-UT-84045/2061508992_zpid/
+"1568 N Catagena Pkwy, Saratoga Springs, UT 84045",3,3.0,2172,"$394,000",394002,-2,181.39963167587476,https://www.zillow.com/homedetails/1568-N-Catagena-Pkwy-Saratoga-Springs-UT-84045/89197425_zpid/
+"2008 E Creek Rd, Sandy, UT 84093",4,3.0,3288,"$550,000",550002,-2,167.27493917274938,https://www.zillow.com/homedetails/2008-E-Creek-Rd-Sandy-UT-84093/12884738_zpid/
+"837 S Greenridge Ave, Payson, UT 84651",4,3.0,2760,"$460,000",460002,-2,166.66666666666666,https://www.zillow.com/homedetails/837-S-Greenridge-Ave-Payson-UT-84651/11925460_zpid/
+"247 N 200 E, Provo, UT 84606",3,2.0,1757,"$529,900",529902,-2,301.59362549800795,https://www.zillow.com/homedetails/247-N-200-E-Provo-UT-84606/11888917_zpid/
+"2476 E 3225 S, Salt Lake City, UT 84109",4,2.0,2218,"$650,000",650002,-2,293.0568079350766,https://www.zillow.com/homedetails/2476-E-3225-S-Salt-Lake-City-UT-84109/12783290_zpid/
+"8889 E Soldier Dr, Heber City, UT 84032",3,2.0,2450,"$400,000",400002,-2,163.26530612244898,https://www.zillow.com/homedetails/8889-E-Soldier-Dr-Heber-City-UT-84032/245489762_zpid/
+"16096 S Truss Dr, Bluffdale, UT 84065",3,3.0,2331,"$520,000",520002,-2,223.08022308022308,https://www.zillow.com/homedetails/16096-S-Truss-Dr-Bluffdale-UT-84065/337868708_zpid/
+"555 N 100 W, Spanish Fork, UT 84660",4,2.0,1552,"$399,000",399002,-2,257.08762886597935,https://www.zillow.com/homedetails/555-N-100-W-Spanish-Fork-UT-84660/11891344_zpid/
+"2761 W 8200 S, West Jordan, UT 84088",4,4.0,2713,"$635,000",635002,-2,234.05823811279026,https://www.zillow.com/homedetails/2761-W-8200-S-West-Jordan-UT-84088/251207748_zpid/
+"1128 W 2050 S, Syracuse, UT 84075",3,3.0,1410,"$385,000",385002,-2,273.0496453900709,https://www.zillow.com/homedetails/1128-W-2050-S-Syracuse-UT-84075/119113519_zpid/
+"1441 E Sherman Ave, Salt Lake City, UT 84105",3,2.0,2544,"$739,000",739002,-2,290.4874213836478,https://www.zillow.com/homedetails/1441-E-Sherman-Ave-Salt-Lake-City-UT-84105/12761319_zpid/
+"7519 S Stone Rd, Salt Lake City, UT 84121",4,2.0,2368,"$725,000",725002,-2,306.1655405405405,https://www.zillow.com/homedetails/7519-S-Stone-Rd-Salt-Lake-City-UT-84121/12875205_zpid/
+"947 N 1125 W, Layton, UT 84041",3,3.0,1368,"$323,000",323002,-2,236.11111111111111,https://www.zillow.com/homedetails/947-N-1125-W-Layton-UT-84041/68447293_zpid/
+"4118 N 900 W, Pleasant Grove, UT 84062",4,4.0,2717,"$599,900",599902,-2,220.794994479205,https://www.zillow.com/homedetails/4118-N-900-W-Pleasant-Grove-UT-84062/11897014_zpid/
+"360 E 800 N, Spanish Fork, UT 84660",3,1.0,1560,"$369,000",369001,-1,236.53846153846155,https://www.zillow.com/homedetails/360-E-800-N-Spanish-Fork-UT-84660/11891721_zpid/
+"46 E 300 S, Pleasant Grove, UT 84062",3,2.0,2600,"$440,000",440001,-1,169.23076923076923,https://www.zillow.com/homedetails/46-E-300-S-Pleasant-Grove-UT-84062/11886690_zpid/
+"615 W Circle Cv, Lehi, UT 84043",3,3.0,1600,"$445,000",445001,-1,278.125,https://www.zillow.com/homedetails/615-W-Circle-Cv-Lehi-UT-84043/55717757_zpid/
+"5550 S Willow Ln APT D, Murray, UT 84107",2,1.0,822,"$279,000",279001,-1,339.4160583941606,https://www.zillow.com/homedetails/5550-S-Willow-Ln-APT-D-Murray-UT-84107/12866696_zpid/
+"3677 W Newland Loop, Lehi, UT 84043",5,3.0,2988,"$520,000",520001,-1,174.02945113788488,https://www.zillow.com/homedetails/3677-W-Newland-Loop-Lehi-UT-84043/60185278_zpid/
+"452 N 1100 W, Salt Lake City, UT 84116",2,1.0,780,"$295,000",295001,-1,378.20512820512823,https://www.zillow.com/homedetails/452-N-1100-W-Salt-Lake-City-UT-84116/12714829_zpid/
+"4566 W 5335 S, Kearns, UT 84118",3,1.0,1002,"$355,000",355001,-1,354.2914171656687,https://www.zillow.com/homedetails/4566-W-5335-S-Kearns-UT-84118/12817910_zpid/
+"1359 W Lucerne Dr, Midway, UT 84049",3,2.0,1133,"$497,000",497001,-1,438.6584289496911,https://www.zillow.com/homedetails/1359-W-Lucerne-Dr-Midway-UT-84049/2072350384_zpid/
+"553 E 100 N, Payson, UT 84651",3,2.0,1358,"$359,000",359001,-1,264.35935198821795,https://www.zillow.com/homedetails/553-E-100-N-Payson-UT-84651/11892746_zpid/
+"178 N Church St, Cedar Fort, UT 84013",5,3.0,2600,"$399,000",399001,-1,153.46153846153845,https://www.zillow.com/homedetails/178-N-Church-St-Cedar-Fort-UT-84013/11894683_zpid/
+"4155 W Sage Rd N, Cedar Hills, UT 84062",3,2.0,2322,"$479,900",479901,-1,206.67527993109388,https://www.zillow.com/homedetails/4155-W-Sage-Rd-N-Cedar-Hills-UT-84062/11912677_zpid/
+"2146 E 1760 S, Spanish Fork, UT 84660",6,4.0,3208,"$567,000",567001,-1,176.74563591022445,https://www.zillow.com/homedetails/2146-E-1760-S-Spanish-Fork-UT-84660/60845671_zpid/
+"319 W Lariat Blvd, Saratoga Springs, UT 84045",7,3.0,3158,"$615,000",615001,-1,194.74350854971502,https://www.zillow.com/homedetails/319-W-Lariat-Blvd-Saratoga-Springs-UT-84045/118958414_zpid/
+"1859 W 800 N, Pleasant Grove, UT 84062",3,2.0,1269,"$325,000",325001,-1,256.107171000788,https://www.zillow.com/homedetails/1859-W-800-N-Pleasant-Grove-UT-84062/11929067_zpid/
+"8007 S Main St, Midvale, UT 84047",3,1.0,1206,"$332,000",332001,-1,275.2902155887231,https://www.zillow.com/homedetails/8007-S-Main-St-Midvale-UT-84047/12847508_zpid/
+"249 Barbara St, Layton, UT 84041",3,2.0,1060,"$335,000",335001,-1,316.0377358490566,https://www.zillow.com/homedetails/249-Barbara-St-Layton-UT-84041/12689277_zpid/
+"584 S 2250 W, Pleasant Grove, UT 84062",3,3.0,1629,"$499,999",500000,-1,306.9361571516268,https://www.zillow.com/homedetails/584-S-2250-W-Pleasant-Grove-UT-84062/124444504_zpid/
+"465 E 245th St S, Springville, UT 84663",4,2.0,1976,"$435,000",435000,0,220.1417004048583,https://www.zillow.com/homedetails/465-E-245th-St-S-Springville-UT-84663/2067416766_zpid/
+"2632 W Rim Rock Dr, Stockton, UT 84071",3,2.0,3152,"$600,000",600000,0,190.35532994923858,https://www.zillow.com/homedetails/2632-W-Rim-Rock-Dr-Stockton-UT-84071/68867879_zpid/
+"461 N 1235 W, Orem, UT 84057",3,3.0,2116,"$415,000",415000,0,196.12476370510396,https://www.zillow.com/homedetails/461-N-1235-W-Orem-UT-84057/68908360_zpid/
+"3061 W Steed Dr, Syracuse, UT 84075",6,3.0,3510,"$749,900",749900,0,213.64672364672364,https://www.zillow.com/homedetails/3061-W-Steed-Dr-Syracuse-UT-84075/304692429_zpid/
+"2926 E Casto Ln, Holladay, UT 84117",4,2.0,2299,"$699,000",699000,0,304.0452370595911,https://www.zillow.com/homedetails/2926-E-Casto-Ln-Holladay-UT-84117/52836351_zpid/
+"428 W 1300 N, Sunset, UT 84015",3,2.0,1715,"$359,000",359000,0,209.32944606413994,https://www.zillow.com/homedetails/428-W-1300-N-Sunset-UT-84015/12704759_zpid/
+"5013 Saguaro Dr, West Jordan, UT 84081",4,2.0,2070,"$300,000",300000,0,144.92753623188406,https://www.zillow.com/homedetails/5013-Saguaro-Dr-West-Jordan-UT-84081/2067134364_zpid/
+"1535 W 2750 S, Syracuse, UT 84075",6,3.0,2964,"$495,000",495000,0,167.00404858299595,https://www.zillow.com/homedetails/1535-W-2750-S-Syracuse-UT-84075/68447579_zpid/
+"233 S Majestic Meadows Dr, Payson, UT 84651",3,2.0,1082,"$299,900",299900,0,277.17190388170053,https://www.zillow.com/homedetails/233-S-Majestic-Meadows-Dr-Payson-UT-84651/11937559_zpid/
+"546 E 100th St N, Springville, UT 84663",3,1.0,1258,"$369,900",369900,0,294.0381558028617,https://www.zillow.com/homedetails/546-E-100th-St-N-Springville-UT-84663/2067818004_zpid/
+"393 W 400 N APT 33, Bountiful, UT 84010",3,3.0,2335,"$320,000",320000,0,137.04496788008566,https://www.zillow.com/homedetails/393-W-400-N-APT-33-Bountiful-UT-84010/12666018_zpid/
+"3182 S Park Commons Way, West Valley, UT 84120",1,2.0,1330,"$375,000",375000,0,281.9548872180451,https://www.zillow.com/homedetails/3182-S-Park-Commons-Way-West-Valley-UT-84120/61166699_zpid/
+"1368 W 450 S, Syracuse, UT 84075",7,4.0,4031,"$705,000",705000,0,174.89456710493673,https://www.zillow.com/homedetails/1368-W-450-S-Syracuse-UT-84075/305072036_zpid/
+"296 W Casi Way, Saratoga Springs, UT 84045",4,3.0,2016,"$459,900",459900,0,228.125,https://www.zillow.com/homedetails/296-W-Casi-Way-Saratoga-Springs-UT-84045/11933323_zpid/
+"3707 S Panorama Dr, Saratoga Springs, UT 84045",4,3.0,3172,"$579,500",579500,0,182.69230769230768,https://www.zillow.com/homedetails/3707-S-Panorama-Dr-Saratoga-Springs-UT-84045/68831618_zpid/
+"3695 W Holbrook Way, Lehi, UT 84043",3,3.0,2607,"$549,900",549900,0,210.93210586881472,https://www.zillow.com/homedetails/3695-W-Holbrook-Way-Lehi-UT-84043/333091589_zpid/
+"1197 W 1050 S, Springville, UT 84663",4,3.0,2282,"$559,999",559999,0,245.39833479404032,https://www.zillow.com/homedetails/1197-W-1050-S-Springville-UT-84663/333090329_zpid/
+"205 S Talbot Dr, Layton, UT 84041",4,2.0,1863,"$478,000",478000,0,256.57541599570584,https://www.zillow.com/homedetails/205-S-Talbot-Dr-Layton-UT-84041/12693034_zpid/
+"633 Little Rock Dr, Santaquin, UT 84655",3,2.0,2172,"$399,999",399999,0,184.16160220994476,https://www.zillow.com/homedetails/633-Little-Rock-Dr-Santaquin-UT-84655/190523826_zpid/
+"2090 N 300 W, Sunset, UT 84015",3,2.0,1982,"$385,000",385000,0,194.24823410696266,https://www.zillow.com/homedetails/2090-N-300-W-Sunset-UT-84015/89453806_zpid/
+"4288 S Holloway Dr, Holladay, UT 84124",4,3.0,3238,"$1,099,000",1099000,0,339.4070413835701,https://www.zillow.com/homedetails/4288-S-Holloway-Dr-Holladay-UT-84124/12853338_zpid/
+"7811 N Windhover Rd, Eagle Mountain, UT 84005",4,3.0,1566,"$439,900",439900,0,280.9067688378033,https://www.zillow.com/homedetails/7811-N-Windhover-Rd-Eagle-Mountain-UT-84005/11918991_zpid/
+"121 E 700 N, Spanish Fork, UT 84660",4,2.0,1680,"$415,000",415000,0,247.02380952380952,https://www.zillow.com/homedetails/121-E-700-N-Spanish-Fork-UT-84660/11891682_zpid/
+"652 W 800 N APT 66, Clinton, UT 84015",3,2.0,1216,"$319,000",319000,0,262.3355263157895,https://www.zillow.com/homedetails/652-W-800-N-APT-66-Clinton-UT-84015/68451594_zpid/
+"290 S 100 W, Goshen, UT 84633",2,2.0,1720,"$404,900",404900,0,235.40697674418604,https://www.zillow.com/homedetails/290-S-100-W-Goshen-UT-84633/63227192_zpid/
+"331 W 200 N, Delta, UT 84624",5,3.0,3030,"$345,000",345000,0,113.86138613861387,https://www.zillow.com/homedetails/331-W-200-N-Delta-UT-84624/114685790_zpid/
+"598 S 300 W, Heber, UT 84032",4,3.0,2443,"$565,000",565000,0,231.27302496930005,https://www.zillow.com/homedetails/598-S-300-W-Heber-UT-84032/75933514_zpid/
+"1608 E 925 S, Clearfield, UT 84015",5,3.0,2746,"$490,000",490000,0,178.44136926438455,https://www.zillow.com/homedetails/1608-E-925-S-Clearfield-UT-84015/122957539_zpid/
+"61 Kearl St, Grantsville, UT 84029",3,1.0,2483,"$359,900",359900,0,144.94563028594442,https://www.zillow.com/homedetails/61-Kearl-St-Grantsville-UT-84029/68856550_zpid/
+"374 Palamino Way, Grantsville, UT 84029",3,2.0,2288,"$425,000",425000,0,185.75174825174824,https://www.zillow.com/homedetails/374-Palamino-Way-Grantsville-UT-84029/68864483_zpid/
+"997 E 40th St N, Springville, UT 84663",3,1.0,936,"$370,000",370000,0,395.2991452991453,https://www.zillow.com/homedetails/997-E-40th-St-N-Springville-UT-84663/2067513646_zpid/
+"449 S 680 E, American Fork, UT 84003",4,4.0,1978,"$524,900",524900,0,265.3690596562184,https://www.zillow.com/homedetails/449-S-680-E-American-Fork-UT-84003/306583904_zpid/
+"685 S Clearwater Falls Dr, Layton, UT 84041",4,3.0,2273,"$399,900",399900,0,175.93488781346238,https://www.zillow.com/homedetails/685-S-Clearwater-Falls-Dr-Layton-UT-84041/83226543_zpid/
+"677 W 700 S, Tooele, UT 84074",4,2.0,1950,"$399,900",399900,0,205.07692307692307,https://www.zillow.com/homedetails/677-W-700-S-Tooele-UT-84074/68863755_zpid/
+"785 S 400 E, Price, UT 84501",3,2.0,1364,"$120,000",120000,0,87.97653958944281,https://www.zillow.com/homedetails/785-S-400-E-Price-UT-84501/113614217_zpid/
+"5153 W Alpen Glow Ct, Herriman, UT 84096",6,2.0,2832,"$659,900",659900,0,233.01553672316385,https://www.zillow.com/homedetails/5153-W-Alpen-Glow-Ct-Herriman-UT-84096/59692165_zpid/
+"691 S 100 E, Payson, UT 84651",4,2.0,1325,"$419,900",419900,0,316.9056603773585,https://www.zillow.com/homedetails/691-S-100-E-Payson-UT-84651/2087908223_zpid/
+"390 E 400 N, Spanish Fork, UT 84660",3,2.0,1393,"$370,000",369900,100,265.6137832017229,https://www.zillow.com/homedetails/390-E-400-N-Spanish-Fork-UT-84660/11891127_zpid/
+"623 W Marie Way, Saratoga Springs, UT 84045",6,3.0,2844,"$530,000",529800,200,186.35724331926863,https://www.zillow.com/homedetails/623-W-Marie-Way-Saratoga-Springs-UT-84045/104436685_zpid/
+"791 E Gables St, Midvale, UT 84047",3,3.0,2050,"$394,900",394700,200,192.6341463414634,https://www.zillow.com/homedetails/791-E-Gables-St-Midvale-UT-84047/12878421_zpid/
+"362 Stone Hollow Dr, Santaquin, UT 84655",5,3.0,3185,"$579,900",579600,300,182.07221350078493,https://www.zillow.com/homedetails/362-Stone-Hollow-Dr-Santaquin-UT-84655/306579941_zpid/
+"890 E 1000 S, Clearfield, UT 84015",4,1.0,1560,"$349,900",349600,300,224.2948717948718,https://www.zillow.com/homedetails/890-E-1000-S-Clearfield-UT-84015/12700095_zpid/
+"5820 W Premier Ln, Herriman, UT 84096",5,3.0,2190,"$589,900",589400,500,269.3607305936073,https://www.zillow.com/homedetails/5820-W-Premier-Ln-Herriman-UT-84096/12933728_zpid/
+"2042 S 275 E, Clearfield, UT 84015",5,4.0,2958,"$555,000",554400,600,187.6267748478702,https://www.zillow.com/homedetails/2042-S-275-E-Clearfield-UT-84015/68450962_zpid/
+"2122 N 350 W, Sunset, UT 84015",5,2.0,2150,"$409,000",408300,700,190.2325581395349,https://www.zillow.com/homedetails/2122-N-350-W-Sunset-UT-84015/12704013_zpid/
+"2869 Jackson Ave, Ogden, UT 84403",4,2.0,1670,"$329,000",327987,1013,197.00598802395209,https://www.zillow.com/homedetails/2869-Jackson-Ave-Ogden-UT-84403/11962594_zpid/
+"34 E 1600 S, Orem, UT 84059",3,1.0,960,"$369,900",368775,1125,385.3125,https://www.zillow.com/homedetails/34-E-1600-S-Orem-UT-84059/11957027_zpid/
+"222 E 400th St S, Springville, UT 84663",3,2.0,1621,"$475,000",473600,1400,293.0289944478717,https://www.zillow.com/homedetails/222-E-400th-St-S-Springville-UT-84663/2067168930_zpid/
+"374 W 800 S, Orem, UT 84058",5,4.0,2982,"$549,000",547300,1700,184.1046277665996,https://www.zillow.com/homedetails/374-W-800-S-Orem-UT-84058/11949582_zpid/
+"1148 Farr Ct, Ogden, UT 84401",3,2.0,1708,"$375,000",373100,1900,219.55503512880563,https://www.zillow.com/homedetails/1148-Farr-Ct-Ogden-UT-84401/11964763_zpid/
+"2835 Childs Ave, Ogden, UT 84401",2,1.0,728,"$250,000",248000,2000,343.4065934065934,https://www.zillow.com/homedetails/2835-Childs-Ave-Ogden-UT-84401/11966741_zpid/
+"966 N 250 W, Centerville, UT 84014",3,2.0,3302,"$524,900",522800,2100,158.9642640823743,https://www.zillow.com/homedetails/966-N-250-W-Centerville-UT-84014/55198071_zpid/
+"13789 S Esther Ann Cir, Draper, UT 84020",6,3.0,3781,"$800,000",797900,2100,211.5842369743454,https://www.zillow.com/homedetails/13789-S-Esther-Ann-Cir-Draper-UT-84020/12936374_zpid/
+"8364 S Bryce Dr, Sandy, UT 84070",4,3.0,2600,"$480,000",477517,2483,184.6153846153846,https://www.zillow.com/homedetails/8364-S-Bryce-Dr-Sandy-UT-84070/12881854_zpid/
+"2301 Kents Canyon Dr #3, Coalville, UT 84017",,,1,"$250,000",247500,2500,250000.0,https://www.zillow.com/homedetails/2301-Kents-Canyon-Dr-3-Coalville-UT-84017/2061482459_zpid/
+"1284 W 2050 S, Woods Cross, UT 84087",4,2.0,1749,"$489,900",487126,2774,280.10291595197253,https://www.zillow.com/homedetails/1284-W-2050-S-Woods-Cross-UT-84087/68430923_zpid/
+"7020 S 300 E, Midvale, UT 84047",3,3.0,1459,"$399,900",397100,2800,274.09184372858124,https://www.zillow.com/homedetails/7020-S-300-E-Midvale-UT-84047/61169952_zpid/
+"915 High Country Dr, Orem, UT 84097",5,3.0,4535,"$949,900",947012,2888,209.45975744211688,https://www.zillow.com/homedetails/915-High-Country-Dr-Orem-UT-84097/11936257_zpid/
+"1372 E Baer Canyon Rd, Fruit Heights, UT 84037",4,2.0,2938,"$650,000",647069,2931,221.23893805309734,https://www.zillow.com/homedetails/1372-E-Baer-Canyon-Rd-Fruit-Heights-UT-84037/12697220_zpid/
+"433 N 2550 W, West Pt, UT 84015",3,3.0,3362,"$600,000",597000,3000,178.4651992861392,https://www.zillow.com/homedetails/433-N-2550-W-West-Pt-UT-84015/52966805_zpid/
+"129 W 870 N, Orem, UT 84057",2,2.0,1194,"$315,900",312900,3000,264.57286432160805,https://www.zillow.com/homedetails/129-W-870-N-Orem-UT-84057/82729284_zpid/
+"4994 S Westslope Cir, Salt Lake City, UT 84118",3,2.0,1458,"$350,000",346956,3044,240.05486968449932,https://www.zillow.com/homedetails/4994-S-Westslope-Cir-Salt-Lake-City-UT-84118/12800514_zpid/
+"3829 Grandview Dr, Ogden, UT 84403",1,1.0,576,"$190,000",186905,3095,329.8611111111111,https://www.zillow.com/homedetails/3829-Grandview-Dr-Ogden-UT-84403/59987382_zpid/
+"515 S 900 E, Provo, UT 84606",3,2.0,1285,"$349,000",345900,3100,271.5953307392996,https://www.zillow.com/homedetails/515-S-900-E-Provo-UT-84606/119289030_zpid/
+"1780 N 1300 W, Pleasant Grove, UT 84062",4,3.0,2308,"$550,000",546839,3161,238.30155979202772,https://www.zillow.com/homedetails/1780-N-1300-W-Pleasant-Grove-UT-84062/250518018_zpid/
+"1939 W 2700 S, Syracuse, UT 84075",2,1.0,1249,"$350,000",346823,3177,280.22417934347476,https://www.zillow.com/homedetails/1939-W-2700-S-Syracuse-UT-84075/12700861_zpid/
+"14342 S Round Rock Dr, Herriman, UT 84096",5,4.0,2920,"$599,999",596813,3186,205.4791095890411,https://www.zillow.com/homedetails/14342-S-Round-Rock-Dr-Herriman-UT-84096/69718228_zpid/
+"274 W 250 S, Kaysville, UT 84037",3,1.0,1404,"$379,000",375522,3478,269.9430199430199,https://www.zillow.com/homedetails/274-W-250-S-Kaysville-UT-84037/12680752_zpid/
+"9279 S Peacock Dr, Sandy, UT 84093",3,2.0,1479,"$583,000",579493,3507,394.18526031102095,https://www.zillow.com/homedetails/9279-S-Peacock-Dr-Sandy-UT-84093/12909789_zpid/
+"630 N 600 W, Provo, UT 84601",3,1.0,1025,"$369,000",365485,3515,360.0,https://www.zillow.com/homedetails/630-N-600-W-Provo-UT-84601/11889439_zpid/
+"2853 S 3000 W, Syracuse, UT 84075",4,3.0,3150,"$740,870",737342,3528,235.1968253968254,https://www.zillow.com/homedetails/2853-S-3000-W-Syracuse-UT-84075/12700837_zpid/
+"3639 Little Rock Dr, Provo, UT 84604",5,4.0,4507,"$599,900",596313,3587,133.1040603505658,https://www.zillow.com/homedetails/3639-Little-Rock-Dr-Provo-UT-84604/11943791_zpid/
+"4340 S 2325 W, Roy, UT 84067",4,2.0,2242,"$389,000",385409,3591,173.50579839429082,https://www.zillow.com/homedetails/4340-S-2325-W-Roy-UT-84067/11981149_zpid/
+"1128 S Kays Dr, Kaysville, UT 84037",5,4.0,3926,"$739,000",735300,3700,188.2322975038207,https://www.zillow.com/homedetails/1128-S-Kays-Dr-Kaysville-UT-84037/94677889_zpid/
+"1418 S Utahna Dr, Salt Lake City, UT 84104",3,2.0,1752,"$399,900",396100,3800,228.25342465753425,https://www.zillow.com/homedetails/1418-S-Utahna-Dr-Salt-Lake-City-UT-84104/12740867_zpid/
+"641 E 7570 S, Midvale, UT 84047",3,2.0,1084,"$434,900",430956,3944,401.19926199261994,https://www.zillow.com/homedetails/641-E-7570-S-Midvale-UT-84047/12880782_zpid/
+"2231 E 3980 S, Holladay, UT 84124",4,3.0,3054,"$535,000",530992,4008,175.18009168303863,https://www.zillow.com/homedetails/2231-E-3980-S-Holladay-UT-84124/12794405_zpid/
+"702 36th St, Ogden, UT 84403",1,1.0,1104,"$250,000",245953,4047,226.44927536231884,https://www.zillow.com/homedetails/702-36th-St-Ogden-UT-84403/11967943_zpid/
+"266 S Hayes Well Ln, Saratoga Springs, UT 84045",5,3.0,3714,"$735,000",730816,4184,197.89983844911146,https://www.zillow.com/homedetails/266-S-Hayes-Well-Ln-Saratoga-Springs-UT-84045/333091685_zpid/
+"412 S 700 W, Payson, UT 84651",3,1.0,1360,"$300,000",295800,4200,220.58823529411765,https://www.zillow.com/homedetails/412-S-700-W-Payson-UT-84651/11893032_zpid/
+"4953 W 5450 S, Hooper, UT 84315",3,3.0,2244,"$639,900",635698,4202,285.16042780748666,https://www.zillow.com/homedetails/4953-W-5450-S-Hooper-UT-84315/246291961_zpid/
+"15 E 300 N, Payson, UT 84651",4,3.0,2795,"$450,000",445700,4300,161.00178890876566,https://www.zillow.com/homedetails/15-E-300-N-Payson-UT-84651/11892437_zpid/
+"3444 W 5075 S, Roy, UT 84067",3,2.0,1423,"$375,000",370623,4377,263.5277582572031,https://www.zillow.com/homedetails/3444-W-5075-S-Roy-UT-84067/11992137_zpid/
+"14603 S Pebble Rose Dr, Herriman, UT 84096",3,3.0,2028,"$385,000",380611,4389,189.8422090729783,https://www.zillow.com/homedetails/14603-S-Pebble-Rose-Dr-Herriman-UT-84096/72626959_zpid/
+"1433 W Pinyon Pines Way, South Jordan, UT 84095",5,3.0,3793,"$685,000",680584,4416,180.59583443184815,https://www.zillow.com/homedetails/1433-W-Pinyon-Pines-Way-South-Jordan-UT-84095/65725172_zpid/
+"315 E 4775 S, Ogden, UT 84405",2,1.0,1450,"$285,000",280432,4568,196.55172413793105,https://www.zillow.com/homedetails/315-E-4775-S-Ogden-UT-84405/12020735_zpid/
+"351 W 310 N, Orem, UT 84057",4,4.0,1530,"$479,900",475300,4600,313.66013071895424,https://www.zillow.com/homedetails/351-W-310-N-Orem-UT-84057/11944422_zpid/
+"4286 S Fowler Ave E, Ogden, UT 84403",3,2.0,2214,"$385,000",380400,4600,173.89340560072267,https://www.zillow.com/homedetails/4286-S-Fowler-Ave-E-Ogden-UT-84403/2071529552_zpid/
+"1717 E Garfield Ave, Salt Lake City, UT 84108",4,2.0,1851,"$600,000",595400,4600,324.14910858995137,https://www.zillow.com/homedetails/1717-E-Garfield-Ave-Salt-Lake-City-UT-84108/12768321_zpid/
+"545 S 1300 E, Pleasant Grove, UT 84062",4,3.0,2970,"$499,900",495271,4629,168.31649831649833,https://www.zillow.com/homedetails/545-S-1300-E-Pleasant-Grove-UT-84062/11909784_zpid/
+"4354 W Burwell Ln, Herriman, UT 84096",4,3.0,2291,"$375,000",370253,4747,163.68398079441292,https://www.zillow.com/homedetails/4354-W-Burwell-Ln-Herriman-UT-84096/331676673_zpid/
+"784 N 800 E, Tooele, UT 84074",4,3.0,2014,"$435,000",430219,4781,215.9880834160874,https://www.zillow.com/homedetails/784-N-800-E-Tooele-UT-84074/68862986_zpid/
+"707 W 4400 S, Ogden, UT 84405",3,2.0,1357,"$329,900",325118,4782,243.10980103168754,https://www.zillow.com/homedetails/707-W-4400-S-Ogden-UT-84405/11970237_zpid/
+"199 S Country Club Dr, Ogden, UT 84405",3,2.0,1440,"$327,900",323100,4800,227.70833333333334,https://www.zillow.com/homedetails/199-S-Country-Club-Dr-Ogden-UT-84405/11970415_zpid/
+"320 S 300 W, Lehi, UT 84043",4,2.0,1797,"$455,500",450700,4800,253.47801892042293,https://www.zillow.com/homedetails/320-S-300-W-Lehi-UT-84043/2067156238_zpid/
+"430 S 400 W, Mount Pleasant, UT 84647",6,3.0,2690,"$345,000",340168,4832,128.2527881040892,https://www.zillow.com/homedetails/430-S-400-W-Mount-Pleasant-UT-84647/124929352_zpid/
+"1027 E Bigelow Ave, Layton, UT 84040",4,3.0,3957,"$634,900",630055,4845,160.44983573414203,https://www.zillow.com/homedetails/1027-E-Bigelow-Ave-Layton-UT-84040/304691891_zpid/
+"853 N 400th St W, American Fork, UT 84003",5,3.0,2676,"$514,900",510000,4900,192.41405082212256,https://www.zillow.com/homedetails/853-N-400th-St-W-American-Fork-UT-84003/2061505492_zpid/
+"667 W Cahoon St, Ogden, UT 84401",2,1.0,722,"$245,000",240100,4900,339.3351800554017,https://www.zillow.com/homedetails/667-W-Cahoon-St-Ogden-UT-84401/12004390_zpid/
+"2469 E 7800 S, Ogden, UT 84405",6,4.0,3465,"$630,000",625000,5000,181.8181818181818,https://www.zillow.com/homedetails/2469-E-7800-S-Ogden-UT-84405/116206931_zpid/
+"234 E 100 S APT B7, Salt Lake City, UT 84111",2,1.0,723,"$289,500",284500,5000,400.4149377593361,https://www.zillow.com/homedetails/234-E-100-S-APT-B7-Salt-Lake-City-UT-84111/12755581_zpid/
+"10777 S Beach Comber Way, South Jordan, UT 84009",4,4.0,2352,"$659,900",654823,5077,280.56972789115645,https://www.zillow.com/homedetails/10777-S-Beach-Comber-Way-South-Jordan-UT-84009/305067221_zpid/
+"1359 N 2325 W, Layton, UT 84041",4,3.0,1688,"$440,000",434823,5177,260.66350710900474,https://www.zillow.com/homedetails/1359-N-2325-W-Layton-UT-84041/35978553_zpid/
+"3727 W 5350 S, Roy, UT 84067",4,2.0,1920,"$445,000",439764,5236,231.77083333333334,https://www.zillow.com/homedetails/3727-W-5350-S-Roy-UT-84067/11990219_zpid/
+"1001 S Yarrow Dr, Mapleton, UT 84664",4,3.0,3254,"$599,990",594709,5281,184.38537185003074,https://www.zillow.com/homedetails/1001-S-Yarrow-Dr-Mapleton-UT-84664/306582198_zpid/
+"12038 S Doves Landing Dr, Riverton, UT 84065",4,3.0,1920,"$549,800",544500,5300,286.3541666666667,https://www.zillow.com/homedetails/12038-S-Doves-Landing-Dr-Riverton-UT-84065/12904406_zpid/
+"8106 W Country View Ln, Herriman, UT 84096",4,3.0,3663,"$795,000",789700,5300,217.03521703521704,https://www.zillow.com/homedetails/8106-W-Country-View-Ln-Herriman-UT-84096/12934086_zpid/
+"3253 W Caraway Bay, West Jordan, UT 84088",4,3.0,2380,"$479,990",474519,5471,201.6764705882353,https://www.zillow.com/homedetails/3253-W-Caraway-Bay-West-Jordan-UT-84088/12892768_zpid/
+"4111 W 9580 S, South Jordan, UT 84009",5,4.0,2886,"$600,000",594500,5500,207.9002079002079,https://www.zillow.com/homedetails/4111-W-9580-S-South-Jordan-UT-84009/12894557_zpid/
+"508 E Leona Dr, Ogden, UT 84403",3,2.0,1554,"$350,000",344500,5500,225.22522522522522,https://www.zillow.com/homedetails/508-E-Leona-Dr-Ogden-UT-84403/11968900_zpid/
+"3820 W 4900 S, Roy, UT 84067",4,2.0,1920,"$395,000",389468,5532,205.72916666666666,https://www.zillow.com/homedetails/3820-W-4900-S-Roy-UT-84067/11990619_zpid/
+"1708 E Blackhawk Dr, Pleasant Grove, UT 84062",5,3.0,2322,"$539,900",534216,5684,232.51507321274764,https://www.zillow.com/homedetails/1708-E-Blackhawk-Dr-Pleasant-Grove-UT-84062/11910207_zpid/
+"11911 S Pay Dirt Cir, Herriman, UT 84096",4,3.0,2324,"$535,000",529285,5715,230.2065404475043,https://www.zillow.com/homedetails/11911-S-Pay-Dirt-Cir-Herriman-UT-84096/12904642_zpid/
+"5485 W 6600 S, West Jordan, UT 84081",4,2.0,1266,"$429,000",423190,5810,338.86255924170615,https://www.zillow.com/homedetails/5485-W-6600-S-West-Jordan-UT-84081/12806447_zpid/
+"6129 W 9600 N, Highland, UT 84003",6,4.0,3168,"$795,000",789136,5864,250.9469696969697,https://www.zillow.com/homedetails/6129-W-9600-N-Highland-UT-84003/11953481_zpid/
+"6861 N 2200 W APT 9R, Park City, UT 84098",2,2.0,1014,"$615,000",609128,5872,606.508875739645,https://www.zillow.com/homedetails/6861-N-2200-W-APT-9R-Park-City-UT-84098/68845865_zpid/
+"743 E Chambers St, Ogden, UT 84403",4,3.0,2293,"$539,900",534000,5900,235.45573484518098,https://www.zillow.com/homedetails/743-E-Chambers-St-Ogden-UT-84403/11974528_zpid/
+"662 N 240 E, Kaysville, UT 84037",5,3.0,2168,"$479,800",473861,5939,221.309963099631,https://www.zillow.com/homedetails/662-N-240-E-Kaysville-UT-84037/12695621_zpid/
+"214 W 600 S, Heber, UT 84032",4,2.0,1501,"$579,900",573937,5963,386.34243837441704,https://www.zillow.com/homedetails/214-W-600-S-Heber-UT-84032/245490193_zpid/
+"5294 W 4600 S, Hooper, UT 84315",5,3.0,2387,"$459,900",453927,5973,192.66862170087975,https://www.zillow.com/homedetails/5294-W-4600-S-Hooper-UT-84315/62632714_zpid/
+"2564 W State Road 32, Peoa, UT 84061",3,3.0,1678,"$627,000",621014,5986,373.6591179976162,https://www.zillow.com/homedetails/2564-W-State-Road-32-Peoa-UT-84061/68847819_zpid/
+"14409 S Lapis Dr, Draper, UT 84020",5,3.0,2176,"$625,000",618900,6100,287.2242647058824,https://www.zillow.com/homedetails/14409-S-Lapis-Dr-Draper-UT-84020/12937632_zpid/
+"979 E Dry Gulch Cir, Sandy, UT 84094",4,2.0,2040,"$549,999",543853,6146,269.6073529411765,https://www.zillow.com/homedetails/979-E-Dry-Gulch-Cir-Sandy-UT-84094/12925985_zpid/
+"275 E 200 S, Manti, UT 84642",4,2.0,2587,"$299,000",292800,6200,115.57788944723617,https://www.zillow.com/homedetails/275-E-200-S-Manti-UT-84642/124930107_zpid/
+"1132 E Meadow Way Dr, Layton, UT 84041",4,3.0,1709,"$470,000",463700,6300,275.01462843768286,https://www.zillow.com/homedetails/1132-E-Meadow-Way-Dr-Layton-UT-84041/2069361840_zpid/
+"11440 E Mountain Sun Ln, Salt Lake City, UT 84121",4,3.0,2597,"$1,280,000",1273591,6409,492.8763958413554,https://www.zillow.com/homedetails/11440-E-Mountain-Sun-Ln-Salt-Lake-City-UT-84121/305061879_zpid/
+"698 S Hoytsville Rd, Coalville, UT 84017",3,2.0,1838,"$649,900",643444,6456,353.59085963003264,https://www.zillow.com/homedetails/698-S-Hoytsville-Rd-Coalville-UT-84017/338073337_zpid/
+"2468 S Fargo St, West Valley, UT 84119",5,3.0,2052,"$350,000",343500,6500,170.5653021442495,https://www.zillow.com/homedetails/2468-S-Fargo-St-West-Valley-UT-84119/12742053_zpid/
+"120 N 300 E, Moroni, UT 84646",5,3.0,2946,"$459,000",452440,6560,155.80448065173115,https://www.zillow.com/homedetails/120-N-300-E-Moroni-UT-84646/333753424_zpid/
+"127 W 1880 N, Orem, UT 84057",4,3.0,2270,"$475,000",468300,6700,209.2511013215859,https://www.zillow.com/homedetails/127-W-1880-N-Orem-UT-84057/11920934_zpid/
+"11614 S Alexandria Dr, South Jordan, UT 84009",3,3.0,2562,"$495,000",488296,6704,193.20843091334893,https://www.zillow.com/homedetails/11614-S-Alexandria-Dr-South-Jordan-UT-84009/111680417_zpid/
+"5655 W 4200 S, Hooper, UT 84315",4,3.0,3728,"$529,900",523100,6800,142.14055793991417,https://www.zillow.com/homedetails/5655-W-4200-S-Hooper-UT-84315/11980896_zpid/
+"1852 Sugar Creek Way, West Jordan, UT 84088",3,3.0,1365,"$400,000",393200,6800,293.040293040293,https://www.zillow.com/homedetails/1852-Sugar-Creek-Way-West-Jordan-UT-84088/2067175912_zpid/
+"129 W 100 S, Heber, UT 84032",4,2.0,1900,"$570,000",563100,6900,300.0,https://www.zillow.com/homedetails/129-W-100-S-Heber-UT-84032/245824760_zpid/
+"1981 E 5650 S, Ogden, UT 84403",3,2.0,1692,"$449,000",442092,6908,265.3664302600473,https://www.zillow.com/homedetails/1981-E-5650-S-Ogden-UT-84403/11976929_zpid/
+"529 27th St, Ogden, UT 84403",2,1.0,1210,"$259,900",252969,6931,214.79338842975207,https://www.zillow.com/homedetails/529-27th-St-Ogden-UT-84403/11960549_zpid/
+"908 S 550 E, Clearfield, UT 84015",5,2.0,1392,"$349,900",342900,7000,251.36494252873564,https://www.zillow.com/homedetails/908-S-550-E-Clearfield-UT-84015/79772193_zpid/
+"4088 N Foothill Dr, Provo, UT 84604",5,3.0,2985,"$574,900",567878,7022,192.5963149078727,https://www.zillow.com/homedetails/4088-N-Foothill-Dr-Provo-UT-84604/11947200_zpid/
+"1505 W 7000 S, West Jordan, UT 84084",6,3.0,2316,"$499,000",491797,7203,215.45768566493956,https://www.zillow.com/homedetails/1505-W-7000-S-West-Jordan-UT-84084/35980672_zpid/
+"84 Canejo Ln, Oakley, UT 84055",3,2.0,1089,"$389,900",382500,7400,358.03489439853075,https://www.zillow.com/homedetails/84-Canejo-Ln-Oakley-UT-84055/2061506401_zpid/
+"1576 E Trevino Rd, Sandy, UT 84092",6,3.0,3346,"$689,000",681500,7500,205.9175134488942,https://www.zillow.com/homedetails/1576-E-Trevino-Rd-Sandy-UT-84092/12927504_zpid/
+"15140 S Auburn Ridge Ln, Draper, UT 84020",4,4.0,2509,"$635,000",627491,7509,253.08888003188522,https://www.zillow.com/homedetails/15140-S-Auburn-Ridge-Ln-Draper-UT-84020/52839391_zpid/
+"2038 S 2000 W, Syracuse, UT 84075",2,1.0,1522,"$389,000",381436,7564,255.58475689881735,https://www.zillow.com/homedetails/2038-S-2000-W-Syracuse-UT-84075/68449145_zpid/
+"588 W 1450 S, Provo, UT 84601",6,3.0,2476,"$493,000",485415,7585,199.11147011308563,https://www.zillow.com/homedetails/588-W-1450-S-Provo-UT-84601/11935929_zpid/
+"3416 S Maple Way, West Valley, UT 84119",4,2.0,1677,"$355,000",347358,7642,211.68753726893263,https://www.zillow.com/homedetails/3416-S-Maple-Way-West-Valley-UT-84119/12744399_zpid/
+"3907 Pine Landing Way, West Jordan, UT 84084",3,3.0,1250,"$349,000",341200,7800,279.2,https://www.zillow.com/homedetails/3907-Pine-Landing-Way-West-Jordan-UT-84084/2067883631_zpid/
+"2178 E 970 N, Spanish Fork, UT 84660",4,3.0,3928,"$675,000",666755,8245,171.84317718940937,https://www.zillow.com/homedetails/2178-E-970-N-Spanish-Fork-UT-84660/333091952_zpid/
+"652 S 50 E, Kaysville, UT 84037",5,4.0,3403,"$649,500",641173,8327,190.8610049955921,https://www.zillow.com/homedetails/652-S-50-E-Kaysville-UT-84037/68431652_zpid/
+"253 S 500 E, Heber, UT 84032",4,2.0,2254,"$819,000",810578,8422,363.35403726708074,https://www.zillow.com/homedetails/253-S-500-E-Heber-UT-84032/102730543_zpid/
+"38601 W Tabby Access, Tabiona, UT 84072",3,2.0,800,"$269,900",261400,8500,337.375,https://www.zillow.com/homedetails/38601-W-Tabby-Access-Tabiona-UT-84072/248554377_zpid/
+"991 E Essex Court Way UNIT 7, Midvale, UT 84047",3,3.0,1720,"$425,000",416500,8500,247.09302325581396,https://www.zillow.com/homedetails/991-E-Essex-Court-Way-UNIT-7-Midvale-UT-84047/12878448_zpid/
+"159 W Main St, Moroni, UT 84646",4,1.0,1980,"$325,000",316268,8732,164.14141414141415,https://www.zillow.com/homedetails/159-W-Main-St-Moroni-UT-84646/248555441_zpid/
+"1983 N 1450 W, Clinton, UT 84015",5,3.0,2032,"$450,000",441250,8750,221.45669291338584,https://www.zillow.com/homedetails/1983-N-1450-W-Clinton-UT-84015/68446200_zpid/
+"1934 E 7090 S, Salt Lake City, UT 84121",4,2.0,1842,"$565,000",556217,8783,306.73181324647123,https://www.zillow.com/homedetails/1934-E-7090-S-Salt-Lake-City-UT-84121/12877757_zpid/
+"250 W 1925 N, Layton, UT 84041",6,3.0,2513,"$499,900",491100,8800,198.92558694787107,https://www.zillow.com/homedetails/250-W-1925-N-Layton-UT-84041/12687855_zpid/
+"3493 W Newland Loop, Lehi, UT 84043",5,4.0,1912,"$494,000",485106,8894,258.3682008368201,https://www.zillow.com/homedetails/3493-W-Newland-Loop-Lehi-UT-84043/52885678_zpid/
+"8675 S Ida Ln E, Sandy, UT 84093",7,3.0,3342,"$599,999",591100,8899,179.5329144225015,https://www.zillow.com/homedetails/8675-S-Ida-Ln-E-Sandy-UT-84093/2061645500_zpid/
+"647 S Egli Ct, Salt Lake City, UT 84102",1,1.0,775,"$330,000",320900,9100,425.80645161290323,https://www.zillow.com/homedetails/647-S-Egli-Ct-Salt-Lake-City-UT-84102/12754356_zpid/
+"65 E 100 S, Mona, UT 84645",3,2.0,1966,"$570,000",560800,9200,289.92878942014244,https://www.zillow.com/homedetails/65-E-100-S-Mona-UT-84645/114682891_zpid/
+"1159 N 1170 W, Clinton, UT 84015",4,3.0,3379,"$490,000",480687,9313,145.01331754957087,https://www.zillow.com/homedetails/1159-N-1170-W-Clinton-UT-84015/68444617_zpid/
+"1729 N Aspen Cir, Saratoga Springs, UT 84045",4,3.0,2905,"$662,500",653129,9371,228.0550774526678,https://www.zillow.com/homedetails/1729-N-Aspen-Cir-Saratoga-Springs-UT-84045/116554893_zpid/
+"4385 S 3500 W, Ogden, UT 84401",4,3.0,3413,"$725,000",715584,9416,212.42308819220628,https://www.zillow.com/homedetails/4385-S-3500-W-Ogden-UT-84401/11984556_zpid/
+"4072 W Hayes Cir, Cedar Hills, UT 84062",7,3.0,3330,"$579,000",569508,9492,173.87387387387386,https://www.zillow.com/homedetails/4072-W-Hayes-Cir-Cedar-Hills-UT-84062/65196943_zpid/
+"6690 W 5100 S, Hooper, UT 84315",4,2.0,1600,"$547,000",537486,9514,341.875,https://www.zillow.com/homedetails/6690-W-5100-S-Hooper-UT-84315/11992410_zpid/
+"463 W River Side Ln, Spanish Fork, UT 84660",8,4.0,4293,"$799,000",789411,9589,186.1169345446075,https://www.zillow.com/homedetails/463-W-River-Side-Ln-Spanish-Fork-UT-84660/65211328_zpid/
+"3420 Baker Dr, Ogden, UT 84403",3,2.0,2307,"$575,000",565400,9600,249.2414390983962,https://www.zillow.com/homedetails/3420-Baker-Dr-Ogden-UT-84403/11966846_zpid/
+"1165 W Brandonwood Dr, Murray, UT 84123",3,2.0,1588,"$459,950",450276,9674,289.6410579345088,https://www.zillow.com/homedetails/1165-W-Brandonwood-Dr-Murray-UT-84123/12825985_zpid/
+"873 S Sunflower Ln, Mapleton, UT 84664",5,3.0,3863,"$684,500",674817,9683,177.19389075847786,https://www.zillow.com/homedetails/873-S-Sunflower-Ln-Mapleton-UT-84664/309896137_zpid/
+"4586 W 5800 S, Hooper, UT 84315",4,2.0,3173,"$569,900",560003,9897,179.6092026473369,https://www.zillow.com/homedetails/4586-W-5800-S-Hooper-UT-84315/246291960_zpid/
+"13451 S 1300 E, Draper, UT 84020",3,2.0,1454,"$699,999",690100,9899,481.42984869326,https://www.zillow.com/homedetails/13451-S-1300-E-Draper-UT-84020/12936272_zpid/
+"2504 E Wilmington Ave, Salt Lake City, UT 84109",4,2.0,1900,"$650,000",640100,9900,342.10526315789474,https://www.zillow.com/homedetails/2504-E-Wilmington-Ave-Salt-Lake-City-UT-84109/12778956_zpid/
+"1199 E Colima Dr, Sandy, UT 84094",5,3.0,2542,"$549,950",540031,9919,216.345397324941,https://www.zillow.com/homedetails/1199-E-Colima-Dr-Sandy-UT-84094/12925759_zpid/
+"215 E 200 S, Nephi, UT 84648",5,2.0,2383,"$429,000",419074,9926,180.0251783466219,https://www.zillow.com/homedetails/215-E-200-S-Nephi-UT-84648/114682788_zpid/
+"250 E Winslow Ave APT 4B, South Salt Lake, UT 84115",2,2.0,1084,"$299,999",290000,9999,276.7518450184502,https://www.zillow.com/homedetails/250-E-Winslow-Ave-APT-4B-South-Salt-Lake-UT-84115/12788635_zpid/
+"2123 S Jackson Ave E, Ogden, UT 84401",5,2.0,1612,"$374,900",364900,10000,232.5682382133995,https://www.zillow.com/homedetails/2123-S-Jackson-Ave-E-Ogden-UT-84401/2071458360_zpid/
+"11844 S Ballot Rd, Draper, UT 84020",3,2.0,1369,"$460,000",450000,10000,336.01168736303873,https://www.zillow.com/homedetails/11844-S-Ballot-Rd-Draper-UT-84020/12901627_zpid/
+"991 Grove Creek Dr, Pleasant Grove, UT 84062",5,4.0,4264,"$675,000",665000,10000,158.30206378986867,https://www.zillow.com/homedetails/991-Grove-Creek-Dr-Pleasant-Grove-UT-84062/11897575_zpid/
+"11622 S Jordan Farms Rd, South Jordan, UT 84095",4,4.0,3614,"$834,000",823978,10022,230.76923076923077,https://www.zillow.com/homedetails/11622-S-Jordan-Farms-Rd-South-Jordan-UT-84095/145110995_zpid/
+"760 W 1700 N, Centerville, UT 84014",3,2.0,1750,"$465,000",454891,10109,265.7142857142857,https://www.zillow.com/homedetails/760-W-1700-N-Centerville-UT-84014/12663249_zpid/
+"10642 S Topview Rd, South Jordan, UT 84009",3,4.0,2268,"$450,000",439875,10125,198.4126984126984,https://www.zillow.com/homedetails/10642-S-Topview-Rd-South-Jordan-UT-84009/89422534_zpid/
+"1519 W Granite Dr, Layton, UT 84041",4,3.0,2014,"$524,900",514694,10206,260.6256206554121,https://www.zillow.com/homedetails/1519-W-Granite-Dr-Layton-UT-84041/68434426_zpid/
+"11762 S Pale Moon Ln, South Jordan, UT 84009",3,2.0,2646,"$515,000",504595,10405,194.6334089191232,https://www.zillow.com/homedetails/11762-S-Pale-Moon-Ln-South-Jordan-UT-84009/72626939_zpid/
+"7692 N Red Oak Rd, Eagle Mountain, UT 84005",3,2.0,3180,"$550,000",539500,10500,172.9559748427673,https://www.zillow.com/homedetails/7692-N-Red-Oak-Rd-Eagle-Mountain-UT-84005/104443391_zpid/
+"269 E 5300 S, Murray, UT 84107",3,2.0,2138,"$475,000",464403,10597,222.17025257249767,https://www.zillow.com/homedetails/269-E-5300-S-Murray-UT-84107/12856852_zpid/
+"617 W 1475 N, Orem, UT 84057",6,4.0,4412,"$774,900",764300,10600,175.63463281958295,https://www.zillow.com/homedetails/617-W-1475-N-Orem-UT-84057/63225787_zpid/
+"826 W Churchhill Downs Dr S, Kaysville, UT 84037",4,3.0,2076,"$574,000",563300,10700,276.4932562620424,https://www.zillow.com/homedetails/826-W-Churchhill-Downs-Dr-S-Kaysville-UT-84037/2072178825_zpid/
+"3463 S 50 E, Bountiful, UT 84010",4,3.0,3122,"$850,000",839200,10800,272.26137091607944,https://www.zillow.com/homedetails/3463-S-50-E-Bountiful-UT-84010/12657803_zpid/
+"139 S 200 W, Henefer, UT 84033",3,3.0,1638,"$575,000",564047,10953,351.03785103785106,https://www.zillow.com/homedetails/139-S-200-W-Henefer-UT-84033/248093181_zpid/
+"4402 N Chestnut Oak Dr, Lehi, UT 84043",5,3.0,2528,"$600,000",588990,11010,237.34177215189874,https://www.zillow.com/homedetails/4402-N-Chestnut-Oak-Dr-Lehi-UT-84043/68834892_zpid/
+"10957 S Gresham Dr, South Jordan, UT 84009",3,3.0,2080,"$530,000",518853,11147,254.80769230769232,https://www.zillow.com/homedetails/10957-S-Gresham-Dr-South-Jordan-UT-84009/333166071_zpid/
+"2147 E Meadow Lark Way, Sandy, UT 84093",5,3.0,1988,"$629,900",618710,11190,316.85110663983903,https://www.zillow.com/homedetails/2147-E-Meadow-Lark-Way-Sandy-UT-84093/12908397_zpid/
+"54 E 8920 S, Sandy, UT 84070",5,4.0,2470,"$649,000",637713,11287,262.753036437247,https://www.zillow.com/homedetails/54-E-8920-S-Sandy-UT-84070/12912602_zpid/
+"4443 S Cherry Hollow Cir, West Valley, UT 84120",4,2.0,1754,"$429,900",418600,11300,245.096921322691,https://www.zillow.com/homedetails/4443-S-Cherry-Hollow-Cir-West-Valley-UT-84120/12798756_zpid/
+"818 W Erda Way, Erda, UT 84074",5,3.0,3774,"$735,000",723692,11308,194.7535771065183,https://www.zillow.com/homedetails/818-W-Erda-Way-Erda-UT-84074/68858319_zpid/
+"162 W Carrick Dr, South Salt Lake, UT 84115",3,2.0,1260,"$380,000",368600,11400,301.58730158730157,https://www.zillow.com/homedetails/162-W-Carrick-Dr-South-Salt-Lake-UT-84115/89417862_zpid/
+"2257 S 600 E, Salt Lake City, UT 84106",2,1.0,819,"$440,000",428300,11700,537.2405372405373,https://www.zillow.com/homedetails/2257-S-600-E-Salt-Lake-City-UT-84106/12774293_zpid/
+"1962 E 7700 S, South Weber, UT 84405",5,3.0,2242,"$469,900",458200,11700,209.58965209634255,https://www.zillow.com/homedetails/1962-E-7700-S-South-Weber-UT-84405/12702915_zpid/
+"15132 S Holly Grove Ct, Draper, UT 84020",4,4.0,2048,"$539,000",527282,11718,263.18359375,https://www.zillow.com/homedetails/15132-S-Holly-Grove-Ct-Draper-UT-84020/52839473_zpid/
+"2763 S Cyprus Ln, Magna, UT 84044",3,1.0,1500,"$349,900",338100,11800,233.26666666666668,https://www.zillow.com/homedetails/2763-S-Cyprus-Ln-Magna-UT-84044/12726535_zpid/
+"7886 N Bridleway Rd, Eagle Mountain, UT 84005",4,4.0,3063,"$599,000",587100,11900,195.55990858635326,https://www.zillow.com/homedetails/7886-N-Bridleway-Rd-Eagle-Mountain-UT-84005/241990614_zpid/
+"168 W 2200 S, Bountiful, UT 84010",5,2.0,2200,"$479,900",468000,11900,218.13636363636363,https://www.zillow.com/homedetails/168-W-2200-S-Bountiful-UT-84010/12671221_zpid/
+"5144 S 6175 W, Hooper, UT 84315",5,4.0,3482,"$699,990",688000,11990,201.03101665709363,https://www.zillow.com/homedetails/5144-S-6175-W-Hooper-UT-84315/119548776_zpid/
+"2525 Oak Haven Dr, Spanish Fork, UT 84660",4,3.0,3842,"$500,000",487800,12200,130.14055179593961,https://www.zillow.com/homedetails/2525-Oak-Haven-Dr-Spanish-Fork-UT-84660/2137445088_zpid/
+"10636 S Ozarks Dr, South Jordan, UT 84009",4,4.0,2280,"$515,000",502661,12339,225.87719298245614,https://www.zillow.com/homedetails/10636-S-Ozarks-Dr-South-Jordan-UT-84009/97777421_zpid/
+"614 N 700 E, Morgan, UT 84050",4,2.0,2280,"$401,000",388517,12483,175.87719298245614,https://www.zillow.com/homedetails/614-N-700-E-Morgan-UT-84050/236192165_zpid/
+"1140 N Cottonwood Cir, Heber, UT 84032",5,4.0,3458,"$849,000",836501,12499,245.51764025448236,https://www.zillow.com/homedetails/1140-N-Cottonwood-Cir-Heber-UT-84032/75936251_zpid/
+"387 Old Fort Rd, Farmington, UT 84025",5,3.0,2852,"$688,900",676319,12581,241.54978962131838,https://www.zillow.com/homedetails/387-Old-Fort-Rd-Farmington-UT-84025/68448899_zpid/
+"931 W 300 S, Salt Lake City, UT 84104",4,2.0,1708,"$399,900",387300,12600,234.13348946135832,https://www.zillow.com/homedetails/931-W-300-S-Salt-Lake-City-UT-84104/12736042_zpid/
+"428 E Hollow Dr, Coalville, UT 84017",3,2.0,1936,"$493,000",480139,12861,254.6487603305785,https://www.zillow.com/homedetails/428-E-Hollow-Dr-Coalville-UT-84017/68847060_zpid/
+"1771 E 5650 S, Ogden, UT 84403",4,2.0,1920,"$289,000",275698,13302,150.52083333333334,https://www.zillow.com/homedetails/1771-E-5650-S-Ogden-UT-84403/11977658_zpid/
+"9264 S 1520 E, Sandy, UT 84093",4,2.0,2202,"$498,500",485100,13400,226.38510445049954,https://www.zillow.com/homedetails/9264-S-1520-E-Sandy-UT-84093/12910989_zpid/
+"155 E Huckleberry Ln, Heber, UT 84032",4,3.0,3588,"$799,900",786493,13407,222.93756967670012,https://www.zillow.com/homedetails/155-E-Huckleberry-Ln-Heber-UT-84032/126189513_zpid/
+"1052 Oakridge Dr, Farmington, UT 84025",5,3.0,4181,"$699,500",685900,13600,167.30447261420713,https://www.zillow.com/homedetails/1052-Oakridge-Dr-Farmington-UT-84025/12676589_zpid/
+"933 W 2300 N, Clinton, UT 84015",5,4.0,3982,"$619,000",605378,13622,155.44952285283776,https://www.zillow.com/homedetails/933-W-2300-N-Clinton-UT-84015/12703638_zpid/
+"4747 W Vista Dr, Highland, UT 84003",5,4.0,3469,"$729,000",715373,13627,210.1470164312482,https://www.zillow.com/homedetails/4747-W-Vista-Dr-Highland-UT-84003/11908691_zpid/
+"1116 N Main St, Farmington, UT 84025",4,2.0,2950,"$464,000",450300,13700,157.28813559322035,https://www.zillow.com/homedetails/1116-N-Main-St-Farmington-UT-84025/68441649_zpid/
+"2821 N 1850 E, Layton, UT 84040",4,3.0,2956,"$550,000",535900,14100,186.06224627875508,https://www.zillow.com/homedetails/2821-N-1850-E-Layton-UT-84040/68432488_zpid/
+"2051 Kingston Rd, Farmington, UT 84025",5,4.0,4175,"$760,000",745600,14400,182.03592814371257,https://www.zillow.com/homedetails/2051-Kingston-Rd-Farmington-UT-84025/12680074_zpid/
+"368 S 1300 E, Bountiful, UT 84010",4,3.0,2990,"$595,000",580221,14779,198.99665551839465,https://www.zillow.com/homedetails/368-S-1300-E-Bountiful-UT-84010/12669523_zpid/
+"2963 W Current Creek Dr, South Jordan, UT 84095",5,4.0,4067,"$798,000",782493,15507,196.21342512908777,https://www.zillow.com/homedetails/2963-W-Current-Creek-Dr-South-Jordan-UT-84095/60136096_zpid/
+"747 S Hoytsville Rd, Coalville, UT 84017",4,3.0,2984,"$607,000",591200,15800,203.41823056300268,https://www.zillow.com/homedetails/747-S-Hoytsville-Rd-Coalville-UT-84017/68847518_zpid/
+"576 E Briarsprings Cir, Midvale, UT 84047",1,1.0,926,"$310,000",294200,15800,334.7732181425486,https://www.zillow.com/homedetails/576-E-Briarsprings-Cir-Midvale-UT-84047/12881057_zpid/
+"1999 S 500 E, Salt Lake City, UT 84105",3,2.0,1745,"$500,000",483910,16090,286.5329512893983,https://www.zillow.com/homedetails/1999-S-500-E-Salt-Lake-City-UT-84105/12773489_zpid/
+"924 W 200 N, Salt Lake City, UT 84116",5,3.0,3142,"$499,000",482700,16300,158.8160407383832,https://www.zillow.com/homedetails/924-W-200-N-Salt-Lake-City-UT-84116/12715520_zpid/
+"2985 S Gloria St, Salt Lake City, UT 84109",3,1.0,1110,"$449,900",433500,16400,405.31531531531533,https://www.zillow.com/homedetails/2985-S-Gloria-St-Salt-Lake-City-UT-84109/12780762_zpid/
+"364 E 6240 S, Murray, UT 84107",3,2.0,2289,"$480,000",463515,16485,209.69855832241154,https://www.zillow.com/homedetails/364-E-6240-S-Murray-UT-84107/12867703_zpid/
+"346 N 200 W, Tooele, UT 84074",1,1.0,550,"$300,000",283400,16600,545.4545454545455,https://www.zillow.com/homedetails/346-N-200-W-Tooele-UT-84074/68857547_zpid/
+"1118 E 5600 S, Salt Lake City, UT 84121",3,2.0,1385,"$499,900",483200,16700,360.9386281588448,https://www.zillow.com/homedetails/1118-E-5600-S-Salt-Lake-City-UT-84121/12865240_zpid/
+"845 E 1550 S, Orem, UT 84097",5,3.0,2629,"$525,000",508300,16700,199.695701787752,https://www.zillow.com/homedetails/845-E-1550-S-Orem-UT-84097/11900455_zpid/
+"344 E Edith Ave, Salt Lake City, UT 84111",3,2.0,1413,"$525,000",508127,16873,371.54989384288746,https://www.zillow.com/homedetails/344-E-Edith-Ave-Salt-Lake-City-UT-84111/12758038_zpid/
+"1046 Fair Oaks Dr, Bountiful, UT 84010",5,3.0,3106,"$687,000",669936,17064,221.18480360592403,https://www.zillow.com/homedetails/1046-Fair-Oaks-Dr-Bountiful-UT-84010/2061472376_zpid/
+"526 E Hawthorne Ave, Salt Lake City, UT 84102",2,1.0,1236,"$370,000",352800,17200,299.3527508090615,https://www.zillow.com/homedetails/526-E-Hawthorne-Ave-Salt-Lake-City-UT-84102/12756130_zpid/
+"9729 N Hummer Dr #503, Eagle Mountain, UT 84005",5,3.0,3688,"$700,000",682200,17800,189.80477223427332,https://www.zillow.com/homedetails/9729-N-Hummer-Dr-503-Eagle-Mountain-UT-84005/2105022168_zpid/
+"2350 W Old Highway Rd, Morgan, UT 84050",5,3.0,2828,"$765,000",747087,17913,270.50919377652053,https://www.zillow.com/homedetails/2350-W-Old-Highway-Rd-Morgan-UT-84050/108157688_zpid/
+"1020 E 5285 S, Ogden, UT 84403",4,3.0,3256,"$549,900",531900,18000,168.88820638820638,https://www.zillow.com/homedetails/1020-E-5285-S-Ogden-UT-84403/11979748_zpid/
+"117 W 700 N, Bountiful, UT 84010",4,2.0,2412,"$685,000",666522,18478,283.9966832504146,https://www.zillow.com/homedetails/117-W-700-N-Bountiful-UT-84010/12665670_zpid/
+"732 E Hidden Manor Cir, Lehi, UT 84043",6,4.0,3338,"$685,000",665972,19028,205.21270221689633,https://www.zillow.com/homedetails/732-E-Hidden-Manor-Cir-Lehi-UT-84043/65204346_zpid/
+"2102 W Thomas St, Lehi, UT 84043",5,4.0,4673,"$899,900",879600,20300,192.574363364006,https://www.zillow.com/homedetails/2102-W-Thomas-St-Lehi-UT-84043/122539268_zpid/
+"10201 E Ridge Pine Dr, Heber, UT 84032",5,4.0,3408,"$995,000",974589,20411,291.9600938967136,https://www.zillow.com/homedetails/10201-E-Ridge-Pine-Dr-Heber-UT-84032/245824122_zpid/
+"2364 W Island Dr, Kaysville, UT 84037",5,3.0,4427,"$849,900",828800,21100,191.98102552518637,https://www.zillow.com/homedetails/2364-W-Island-Dr-Kaysville-UT-84037/145681452_zpid/
+"615 S Woodland Hills Dr, Woodland Hills, UT 84653",5,4.0,5383,"$995,000",973862,21138,184.841166635705,https://www.zillow.com/homedetails/615-S-Woodland-Hills-Dr-Woodland-Hills-UT-84653/190535460_zpid/
+"2632 Country Turn, Kamas, UT 84036",3,2.0,1404,"$550,000",528770,21230,391.73789173789174,https://www.zillow.com/homedetails/2632-Country-Turn-Kamas-UT-84036/68847765_zpid/
+"1940 Prospector Ave #124, Park City, UT 84060",0,1.0,250,"$295,000",273600,21400,1180.0,https://www.zillow.com/homedetails/1940-Prospector-Ave-124-Park-City-UT-84060/68840445_zpid/
+"1764 S 200 E, Salt Lake City, UT 84115",2,1.0,1303,"$449,900",427600,22300,345.28012279355335,https://www.zillow.com/homedetails/1764-S-200-E-Salt-Lake-City-UT-84115/12772389_zpid/
+"12168 S Pond Ridge Dr, Draper, UT 84020",6,3.0,3729,"$719,900",697577,22323,193.05443818718155,https://www.zillow.com/homedetails/12168-S-Pond-Ridge-Dr-Draper-UT-84020/12930158_zpid/
+"140 W 6480 S, Murray, UT 84107",3,2.0,1676,"$464,000",440888,23112,276.8496420047733,https://www.zillow.com/homedetails/140-W-6480-S-Murray-UT-84107/12838386_zpid/
+"546 E Elm Ave S, Salt Lake City, UT 84106",2,1.0,1420,"$475,000",451800,23200,334.50704225352115,https://www.zillow.com/homedetails/546-E-Elm-Ave-S-Salt-Lake-City-UT-84106/2074641098_zpid/
+"10227 S Zinnia Way, White City, UT 84094",3,1.0,896,"$399,900",376487,23413,446.3169642857143,https://www.zillow.com/homedetails/10227-S-Zinnia-Way-White-City-UT-84094/12921326_zpid/
+"151 W 650 N, Centerville, UT 84014",4,4.0,3210,"$699,000",675500,23500,217.7570093457944,https://www.zillow.com/homedetails/151-W-650-N-Centerville-UT-84014/116207428_zpid/
+"367 W 110 S, Lindon, UT 84042",5,3.0,5590,"$750,000",725800,24200,134.16815742397137,https://www.zillow.com/homedetails/367-W-110-S-Lindon-UT-84042/54894224_zpid/
+"273 W 1375 N, Centerville, UT 84014",5,2.0,2124,"$549,000",524800,24200,258.47457627118644,https://www.zillow.com/homedetails/273-W-1375-N-Centerville-UT-84014/12663224_zpid/
+"2398 E 8300 S, South Weber, UT 84405",4,4.0,4968,"$950,000",924353,25647,191.22383252818037,https://www.zillow.com/homedetails/2398-E-8300-S-South-Weber-UT-84405/116210434_zpid/
+"15582 S Broken Arrow Dr, Bluffdale, UT 84065",6,5.0,4854,"$900,000",874285,25715,185.4140914709518,https://www.zillow.com/homedetails/15582-S-Broken-Arrow-Dr-Bluffdale-UT-84065/72626248_zpid/
+"8432 S Kings Hill Dr, Salt Lake City, UT 84121",5,3.0,3248,"$899,000",873129,25871,276.7857142857143,https://www.zillow.com/homedetails/8432-S-Kings-Hill-Dr-Salt-Lake-City-UT-84121/12888218_zpid/
+"130 E Whitlock Ave, South Salt Lake, UT 84115",3,2.0,1712,"$484,500",458433,26067,283.00233644859816,https://www.zillow.com/homedetails/130-E-Whitlock-Ave-South-Salt-Lake-UT-84115/12774379_zpid/
+"1273 E Grayson Ct, Sandy, UT 84094",5,4.0,4820,"$820,000",793470,26530,170.12448132780082,https://www.zillow.com/homedetails/1273-E-Grayson-Ct-Sandy-UT-84094/12926233_zpid/
+"3932 S 300 E, Murray, UT 84107",2,1.0,1503,"$425,000",398000,27000,282.7677977378576,https://www.zillow.com/homedetails/3932-S-300-E-Murray-UT-84107/12789321_zpid/
+"3742 S Armoridge Dr, Magna, UT 84044",3,2.0,1740,"$375,000",346900,28100,215.51724137931035,https://www.zillow.com/homedetails/3742-S-Armoridge-Dr-Magna-UT-84044/12729397_zpid/
+"11688 S River Front Pkwy, South Jordan, UT 84095",4,4.0,4459,"$965,000",936473,28527,216.4162368244001,https://www.zillow.com/homedetails/11688-S-River-Front-Pkwy-South-Jordan-UT-84095/248856476_zpid/
+"1551 3170 #1, Spanish Fork, UT 84660",,,1,"$28,800",0,28800,28800.0,https://www.zillow.com/homedetails/1551-3170-1-Spanish-Fork-UT-84660/2061749487_zpid/
+"235 S Broadway St, Tooele, UT 84074",3,1.0,937,"$325,000",295400,29600,346.8516542155816,https://www.zillow.com/homedetails/235-S-Broadway-St-Tooele-UT-84074/68861566_zpid/
+"2762 E Dimple Dell Rd, Sandy, UT 84092",5,4.0,4183,"$850,000",819800,30200,203.20344250537892,https://www.zillow.com/homedetails/2762-E-Dimple-Dell-Rd-Sandy-UT-84092/12919765_zpid/
+"5037 W Bowstring Way, South Jordan, UT 84009",4,3.0,2390,"$619,000",588600,30400,258.9958158995816,https://www.zillow.com/homedetails/5037-W-Bowstring-Way-South-Jordan-UT-84009/97746378_zpid/
+"1105 S Woodland Hills Dr, Woodland Hills, UT 84653",6,5.0,6394,"$949,999",919354,30645,148.57663434469816,https://www.zillow.com/homedetails/1105-S-Woodland-Hills-Dr-Woodland-Hills-UT-84653/89199446_zpid/
+"95 Aspen Dr, Park City, UT 84098",3,3.0,2550,"$970,000",939206,30794,380.3921568627451,https://www.zillow.com/homedetails/95-Aspen-Dr-Park-City-UT-84098/68846921_zpid/
+"3273 Apache Ln, Provo, UT 84604",5,4.0,5402,"$849,000",817555,31445,157.1640133283969,https://www.zillow.com/homedetails/3273-Apache-Ln-Provo-UT-84604/11929578_zpid/
+"273 E 4000 N, Provo, UT 84604",4,3.0,4650,"$799,000",765900,33100,171.8279569892473,https://www.zillow.com/homedetails/273-E-4000-N-Provo-UT-84604/11934015_zpid/
+"954 N Northridge Dr, Bountiful, UT 84010",6,4.0,6233,"$950,000",916749,33251,152.4145676239371,https://www.zillow.com/homedetails/954-N-Northridge-Dr-Bountiful-UT-84010/12668329_zpid/
+"426 E Creekside Cir, Murray, UT 84107",3,2.0,1504,"$379,000",343800,35200,251.99468085106383,https://www.zillow.com/homedetails/426-E-Creekside-Cir-Murray-UT-84107/12857199_zpid/
+"3013 W Kings Mountain Ct, Riverton, UT 84065",6,4.0,4306,"$1,190,000",1154553,35447,276.3585694379935,https://www.zillow.com/homedetails/3013-W-Kings-Mountain-Ct-Riverton-UT-84065/12903519_zpid/
+"475 Lupine Dr, Alpine, UT 84004",6,4.0,4389,"$989,000",953100,35900,225.3360674413306,https://www.zillow.com/homedetails/475-Lupine-Dr-Alpine-UT-84004/11909390_zpid/
+"4425 N Ridge View Way, Lehi, UT 84043",6,5.0,4500,"$1,075,000",1037600,37400,238.88888888888889,https://www.zillow.com/homedetails/4425-N-Ridge-View-Way-Lehi-UT-84043/190508131_zpid/
+"2430 Success Trl #19, Midway, UT 84049",,,1,"$39,000",0,39000,39000.0,https://www.zillow.com/homedetails/2430-Success-Trl-19-Midway-UT-84049/2061620615_zpid/
+"7471 Brook Hollow Loop Rd, Park City, UT 84098",3,2.0,1717,"$900,000",860400,39600,524.17006406523,https://www.zillow.com/homedetails/7471-Brook-Hollow-Loop-Rd-Park-City-UT-84098/68852667_zpid/
+"5127 W Black Twig Dr, South Jordan, UT 84009",,3.0,1824,"$515,000",475000,40000,282.3464912280702,https://www.zillow.com/homedetails/5127-W-Black-Twig-Dr-South-Jordan-UT-84009/331671091_zpid/
+"10458 N Iverson Ln, Highland, UT 84003",5,5.0,5880,"$1,195,000",1152321,42679,203.2312925170068,https://www.zillow.com/homedetails/10458-N-Iverson-Ln-Highland-UT-84003/104447759_zpid/
+"5192 W Koppers Ln, Herriman, UT 84096",3,2.0,2228,"$487,000",443800,43200,218.58168761220827,https://www.zillow.com/homedetails/5192-W-Koppers-Ln-Herriman-UT-84096/331670931_zpid/
+"11267 W Golden Sky Ln #1-151, South Jordan, UT 84009",6,6.0,4956,"$999,900",955999,43901,201.75544794188863,https://www.zillow.com/homedetails/11267-W-Golden-Sky-Ln-1-151-South-Jordan-UT-84009/2061680788_zpid/
+"2438 E Jim Bridger Dr, Eagle Mountain, UT 84005",6,3.0,2431,"$469,900",425200,44700,193.29494035376388,https://www.zillow.com/homedetails/2438-E-Jim-Bridger-Dr-Eagle-Mountain-UT-84005/241990967_zpid/
+"12507 S Rivulet Rd, Herriman, UT 84096",3,3.0,4437,"$789,900",745200,44700,178.02569303583502,https://www.zillow.com/homedetails/12507-S-Rivulet-Rd-Herriman-UT-84096/251211400_zpid/
+"76 S Sevier Riv, Levan, UT 84639",,,1,"$45,000",0,45000,45000.0,https://www.zillow.com/homedetails/76-S-Sevier-Riv-Levan-UT-84639/2067165965_zpid/
+"3688 S Spinnaker Bay Dr, Saratoga Springs, UT 84045",5,4.0,4913,"$1,200,000",1154400,45600,244.24994911459393,https://www.zillow.com/homedetails/3688-S-Spinnaker-Bay-Dr-Saratoga-Springs-UT-84045/116555140_zpid/
+"2740 N 1525 E, Layton, UT 84040",4,3.0,2606,"$510,000",464300,45700,195.70222563315426,https://www.zillow.com/homedetails/2740-N-1525-E-Layton-UT-84040/12684935_zpid/
+"220 S 400 W, Orem, UT 84059",3,2.0,1820,"$339,000",292300,46700,186.26373626373626,https://www.zillow.com/homedetails/220-S-400-W-Orem-UT-84059/11913180_zpid/
+"3014 Fawn Dr, Park City, UT 84098",3,3.0,2050,"$895,000",847894,47106,436.5853658536585,https://www.zillow.com/homedetails/3014-Fawn-Dr-Park-City-UT-84098/68851388_zpid/
+"2588 S 900 E APT 7, Salt Lake City, UT 84106",2,1.0,935,"$349,900",302700,47200,374.2245989304813,https://www.zillow.com/homedetails/2588-S-900-E-APT-7-Salt-Lake-City-UT-84106/52834807_zpid/
+"0 Skycrest Dr, Indianola, UT 84629",,,1,"$48,500",0,48500,48500.0,https://www.zillow.com/homedetails/0-Skycrest-Dr-Indianola-UT-84629/2061862768_zpid/
+"115 W Potter Ln, Heber, UT 84032",4,2.0,3195,"$1,099,000",1048800,50200,343.9749608763693,https://www.zillow.com/homedetails/115-W-Potter-Ln-Heber-UT-84032/75936682_zpid/
+"7450 Brook Hollow Loop Rd, Park City, UT 84098",4,4.0,2449,"$1,150,000",1098577,51423,469.57942017149855,https://www.zillow.com/homedetails/7450-Brook-Hollow-Loop-Rd-Park-City-UT-84098/68842116_zpid/
+"184 S Pfeifferhorn Dr, Alpine, UT 84004",5,5.0,5566,"$1,725,000",1671200,53800,309.91735537190084,https://www.zillow.com/homedetails/184-S-Pfeifferhorn-Dr-Alpine-UT-84004/11959570_zpid/
+"610 N Sugar Factory Row Rd, Delta, UT 84624",3,2.0,2252,"$300,000",243100,56900,133.21492007104797,https://www.zillow.com/homedetails/610-N-Sugar-Factory-Row-Rd-Delta-UT-84624/114688050_zpid/
+"363 S Comanche Rd, Farmington, UT 84025",5,4.0,4580,"$1,425,000",1366700,58300,311.1353711790393,https://www.zillow.com/homedetails/363-S-Comanche-Rd-Farmington-UT-84025/122959570_zpid/
+"7657 Susans Cir, Park City, UT 84098",4,3.0,2818,"$1,275,000",1216153,58847,452.4485450674237,https://www.zillow.com/homedetails/7657-Susans-Cir-Park-City-UT-84098/68523701_zpid/
+"8 Big Hollow Rd #8, Fairview, UT 84629",,,1,"$60,000",0,60000,60000.0,https://www.zillow.com/homedetails/8-Big-Hollow-Rd-8-Fairview-UT-84629/2061767182_zpid/
+"1447 S 1450 W, Mapleton, UT 84664",6,4.0,5732,"$1,399,000",1338502,60498,244.06838799720865,https://www.zillow.com/homedetails/1447-S-1450-W-Mapleton-UT-84664/306579077_zpid/
+"387 E 2200 S, Bountiful, UT 84010",4,3.0,2334,"$599,900",539000,60900,257.02656383890314,https://www.zillow.com/homedetails/387-E-2200-S-Bountiful-UT-84010/12670904_zpid/
+"1648 N 2400 W, Clinton, UT 84015",3,3.0,1762,"$485,000",423800,61200,275.255391600454,https://www.zillow.com/homedetails/1648-N-2400-W-Clinton-UT-84015/68446769_zpid/
+"11522 S Cross Country Cir, South Jordan, UT 84009",4,3.0,2610,"$640,000",575200,64800,245.21072796934865,https://www.zillow.com/homedetails/11522-S-Cross-Country-Cir-South-Jordan-UT-84009/52838400_zpid/
+"583 E Blackhawk Ln, Alpine, UT 84004",6,5.0,4384,"$1,150,000",1083214,66786,262.3175182481752,https://www.zillow.com/homedetails/583-E-Blackhawk-Ln-Alpine-UT-84004/79774839_zpid/
+"1911 W Oak Hollow Cir, Lehi, UT 84043",7,7.0,6436,"$1,750,000",1682800,67200,271.9080174021131,https://www.zillow.com/homedetails/1911-W-Oak-Hollow-Cir-Lehi-UT-84043/309898215_zpid/
+"1688 W 210 N, Tooele, UT 84074",2,1.0,900,"$70,000",0,70000,77.77777777777777,https://www.zillow.com/homedetails/1688-W-210-N-Tooele-UT-84074/2061271811_zpid/
+"1017 W Yucca Dr S #380, Salt Lake City, UT 84123",3,2.0,1400,"$74,999",0,74999,53.57071428571429,https://www.zillow.com/homedetails/1017-W-Yucca-Dr-S-380-Salt-Lake-City-UT-84123/2071476835_zpid/
+"3077 W Lehman Ave, West Valley, UT 84119",7,2.0,3360,"$579,000",503400,75600,172.32142857142858,https://www.zillow.com/homedetails/3077-W-Lehman-Ave-West-Valley-UT-84119/12750139_zpid/
+"2496 W Robin Rd, West Valley City, UT 84119",4,4.0,1972,"$499,900",423500,76400,253.49898580121703,https://www.zillow.com/homedetails/2496-W-Robin-Rd-West-Valley-City-UT-84119/12744274_zpid/
+"776 E 10th Ave, Salt Lake City, UT 84103",3,3.0,1807,"$725,000",645300,79700,401.2174875484228,https://www.zillow.com/homedetails/776-E-10th-Ave-Salt-Lake-City-UT-84103/12720373_zpid/
+"11794 N Church Rd, Park City, UT 84098",4,3.0,3338,"$1,975,000",1891500,83500,591.6716596764529,https://www.zillow.com/homedetails/11794-N-Church-Rd-Park-City-UT-84098/218322738_zpid/
+"6364 S Mount Vernon Dr, Murray, UT 84107",4,4.0,3168,"$675,000",590800,84200,213.0681818181818,https://www.zillow.com/homedetails/6364-S-Mount-Vernon-Dr-Murray-UT-84107/12867810_zpid/
+"1264 E Spring Ridge Dr, Sandy, UT 84094",4,4.0,2163,"$620,000",535300,84700,286.6389274156264,https://www.zillow.com/homedetails/1264-E-Spring-Ridge-Dr-Sandy-UT-84094/12930741_zpid/
+"304 W Center St, Bountiful, UT 84010",4,2.0,1764,"$500,000",415100,84900,283.4467120181406,https://www.zillow.com/homedetails/304-W-Center-St-Bountiful-UT-84010/12664565_zpid/
+"3800 S 1900 W TRLR 81, Roy, UT 84067",3,2.0,960,"$85,000",0,85000,88.54166666666667,https://www.zillow.com/homedetails/3800-S-1900-W-TRLR-81-Roy-UT-84067/2083126533_zpid/
+"8516 W Chokecherry Ln, Heber, UT 84032",4,5.0,4411,"$1,750,000",1664012,85988,396.73543414191795,https://www.zillow.com/homedetails/8516-W-Chokecherry-Ln-Heber-UT-84032/245489533_zpid/
+"573 E Marialana Way, North Salt Lake, UT 84054",5,5.0,6142,"$1,599,999",1509400,90599,260.5013025073266,https://www.zillow.com/homedetails/573-E-Marialana-Way-North-Salt-Lake-UT-84054/250727056_zpid/
+"808 Pole Dr, Heber City, UT 84032",5,7.0,6000,"$2,250,000",2156200,93800,375.0,https://www.zillow.com/homedetails/808-Pole-Dr-Heber-City-UT-84032/2114009657_zpid/
+"1840 S 1200 W, Mapleton, UT 84664",6,5.0,6074,"$1,924,999",1828539,96460,316.92443200526833,https://www.zillow.com/homedetails/1840-S-1200-W-Mapleton-UT-84664/190485950_zpid/
+"6847 S Grand Valley Pl, West Jordan, UT 84081",4,3.0,3760,"$749,850",649700,100150,199.4281914893617,https://www.zillow.com/homedetails/6847-S-Grand-Valley-Pl-West-Jordan-UT-84081/12805118_zpid/
+"4180 Woodland View Dr, Kamas, UT 84036",8,6.0,7338,"$1,695,900",1590100,105800,231.1120196238757,https://www.zillow.com/homedetails/4180-Woodland-View-Dr-Kamas-UT-84036/2061474864_zpid/
+"2175 Comstock Dr, Park City, UT 84060",4,3.0,2205,"$1,749,900",1640900,109000,793.6054421768707,https://www.zillow.com/homedetails/2175-Comstock-Dr-Park-City-UT-84060/68845204_zpid/
+"780 W Walden Hills Dr, Murray, UT 84123",4,3.0,3772,"$719,000",608100,110900,190.6150583244963,https://www.zillow.com/homedetails/780-W-Walden-Hills-Dr-Murray-UT-84123/12826444_zpid/
+"0 S Lake Mountain Rd, Saratoga Springs, UT 84045",,,1,"$114,999",0,114999,114999.0,https://www.zillow.com/homedetails/0-S-Lake-Mountain-Rd-Saratoga-Springs-UT-84045/2061559316_zpid/
+"5100 S 1050 W #B90, Ogden, UT 84405",4,2.0,1484,"$115,900",0,115900,78.09973045822102,https://www.zillow.com/homedetails/5100-S-1050-W-B90-Ogden-UT-84405/2061184196_zpid/
+"7006 W Apaloosa Dr, West Valley City, UT 84128",3,2.0,1269,"$117,900",0,117900,92.90780141843972,https://www.zillow.com/homedetails/7006-W-Apaloosa-Dr-West-Valley-City-UT-84128/2061097716_zpid/
+"County Road 173 #32, Evanston, WY 82930",,0.0,1,"$120,000",0,120000,120000.0,https://www.zillow.com/homedetails/County-Road-173-32-Evanston-WY-82930/2063182831_zpid/
+"2996 W 3100 S, West Valley City, UT 84119",7,4.0,3297,"$639,900",518200,121700,194.08553230209282,https://www.zillow.com/homedetails/2996-W-3100-S-West-Valley-City-UT-84119/12743570_zpid/
+"1900 E 100th St S #32, Springville, UT 84663",,,1,"$122,500",0,122500,122500.0,https://www.zillow.com/homedetails/1900-E-100th-St-S-32-Springville-UT-84663/2062200942_zpid/
+"11144 S Surrey Dr, Covered Bridge, UT 84660",4,2.0,3564,"$709,900",584800,125100,199.18630751964085,https://www.zillow.com/homedetails/11144-S-Surrey-Dr-Covered-Bridge-UT-84660/11917004_zpid/
+"3521 S 200 E, Salt Lake City, UT 84115",4,4.0,2627,"$719,000",590100,128900,273.6962314427103,https://www.zillow.com/homedetails/3521-S-200-E-Salt-Lake-City-UT-84115/331670145_zpid/
+"18 Three Oclock Dr, Tooele, UT 84074",,,1,"$129,900",0,129900,129900.0,https://www.zillow.com/homedetails/18-Three-Oclock-Dr-Tooele-UT-84074/2061507415_zpid/
+"252 Pine Hollow Dr, Fairview, UT 84629",1,,288,"$130,000",0,130000,451.3888888888889,https://www.zillow.com/homedetails/252-Pine-Hollow-Dr-Fairview-UT-84629/2062912626_zpid/
+"1512 E Weber Wild Rd, Oakley, UT 84055",2,1.0,931,"$595,000",463200,131800,639.0977443609023,https://www.zillow.com/homedetails/1512-E-Weber-Wild-Rd-Oakley-UT-84055/248267504_zpid/
+"2275 S Aspen Rd #442, Salt Lake City, UT 84109",,,1,"$135,000",0,135000,135000.0,https://www.zillow.com/homedetails/2275-S-Aspen-Rd-442-Salt-Lake-City-UT-84109/2061591593_zpid/
+"16 Taylor Rd, Grantsville, UT 84029",4,2.0,2580,"$750,000",613700,136300,290.69767441860466,https://www.zillow.com/homedetails/16-Taylor-Rd-Grantsville-UT-84029/68855082_zpid/
+"10716 S Watery Way, South Jordan, UT 84009",6,7.0,7074,"$2,100,000",1963000,137000,296.86174724342663,https://www.zillow.com/homedetails/10716-S-Watery-Way-South-Jordan-UT-84009/305067239_zpid/
+"10-7900 S, Fruitland, UT 84027",2,2.0,600,"$139,000",0,139000,231.66666666666666,https://www.zillow.com/homedetails/10-7900-S-Fruitland-UT-84027/2061011413_zpid/
+"925 E 1180 S, Provo, UT 84606",3,2.0,1600,"$145,000",0,145000,90.625,https://www.zillow.com/homedetails/925-E-1180-S-Provo-UT-84606/2066810301_zpid/
+"5132 S Autumn Wood Ln, Taylorsville, UT 84129",7,6.0,4274,"$875,000",728600,146400,204.72625175479644,https://www.zillow.com/homedetails/5132-S-Autumn-Wood-Ln-Taylorsville-UT-84129/145606252_zpid/
+"110 S 200 E #E, Cleveland, UT 84518",3,1.0,1504,"$149,000",0,149000,99.06914893617021,https://www.zillow.com/homedetails/110-S-200-E-E-Cleveland-UT-84518/2061582809_zpid/
+"410 N 200 E, Price, UT 84501",3,1.0,1096,"$260,000",109700,150300,237.22627737226279,https://www.zillow.com/homedetails/410-N-200-E-Price-UT-84501/108146826_zpid/
+"11223 S Crescent Glen Cir, Sandy, UT 84070",3,2.0,1150,"$159,900",0,159900,139.04347826086956,https://www.zillow.com/homedetails/11223-S-Crescent-Glen-Cir-Sandy-UT-84070/2069437288_zpid/
+"18493 W Jackson St, Cedar Valley, UT 84013",,,1,"$160,000",0,160000,160000.0,https://www.zillow.com/homedetails/18493-W-Jackson-St-Cedar-Valley-UT-84013/2061016780_zpid/
+"1554 Splendor Valley Rd, Kamas, UT 84036",,0.0,1,"$165,000",0,165000,165000.0,https://www.zillow.com/homedetails/1554-Splendor-Valley-Rd-Kamas-UT-84036/2062671503_zpid/
+"340 N 400 E, Bountiful, UT 84010",4,3.0,1962,"$559,000",389800,169200,284.9133537206932,https://www.zillow.com/homedetails/340-N-400-E-Bountiful-UT-84010/12667851_zpid/
+"1209 W Meadow Stream Rd #67, West Valley City, UT 84119",4,2.0,1300,"$170,000",0,170000,130.76923076923077,https://www.zillow.com/homedetails/1209-W-Meadow-Stream-Rd-67-West-Valley-City-UT-84119/2061268945_zpid/
+"58 E 2650 N, Lehi, UT 84043",7,5.0,9360,"$2,690,000",2510400,179600,287.3931623931624,https://www.zillow.com/homedetails/58-E-2650-N-Lehi-UT-84043/250510318_zpid/
+"3817 Sherwood Dr, Provo, UT 84604",4,6.0,6886,"$4,200,000",4014100,185900,609.9331977926228,https://www.zillow.com/homedetails/3817-Sherwood-Dr-Provo-UT-84604/11947134_zpid/
+"1025 N 300 W UNIT 8, Springville, UT 84663",4,2.0,1830,"$190,000",0,190000,103.82513661202186,https://www.zillow.com/homedetails/1025-N-300-W-UNIT-8-Springville-UT-84663/2071419472_zpid/
+"556 E 700 S, Salt Lake City, UT 84102",5,3.0,2870,"$699,900",507200,192700,243.86759581881532,https://www.zillow.com/homedetails/556-E-700-S-Salt-Lake-City-UT-84102/12756922_zpid/
+"694 W Cephus Rd, Draper, UT 84020",11,10.0,15846,"$3,850,000",3650896,199104,242.96352391770793,https://www.zillow.com/homedetails/694-W-Cephus-Rd-Draper-UT-84020/12906841_zpid/
+"5573 Washoe Cv, West Jordan, UT 84081",3,3.0,1335,"$390,000",180700,209300,292.13483146067415,https://www.zillow.com/homedetails/5573-Washoe-Cv-West-Jordan-UT-84081/2123547071_zpid/
+"9000 W Wattis Rd, Price, UT 84501",,,1,"$220,000",0,220000,220000.0,https://www.zillow.com/homedetails/9000-W-Wattis-Rd-Price-UT-84501/2077677119_zpid/
+"1854 E Chimney Stone Ct, Draper, UT 84020",5,4.0,3471,"$895,500",675000,220500,257.99481417458946,https://www.zillow.com/homedetails/1854-E-Chimney-Stone-Ct-Draper-UT-84020/117649918_zpid/
+"3017 S Adams Ave E, Ogden, UT 84401",2,1.0,679,"$229,900",0,229900,338.5861561119293,https://www.zillow.com/homedetails/3017-S-Adams-Ave-E-Ogden-UT-84401/2063143646_zpid/
+"1940 Prospector Ave #207, Park City, UT 84060",0,1.0,250,"$239,000",0,239000,956.0,https://www.zillow.com/homedetails/1940-Prospector-Ave-207-Park-City-UT-84060/68850980_zpid/
+"2977 S Grant Ave, Ogden, UT 84401",3,1.0,1100,"$243,300",0,243300,221.1818181818182,https://www.zillow.com/homedetails/2977-S-Grant-Ave-Ogden-UT-84401/2061431968_zpid/
+"151 Spring City, Spring City, UT 84662",2,1.0,640,"$265,000",0,265000,414.0625,https://www.zillow.com/homedetails/151-Spring-City-Spring-City-UT-84662/2061441448_zpid/
+"5663 S Blue Lune Ln, Holladay, UT 84121",6,8.0,8534,"$4,900,000",4611302,288698,574.1738926646356,https://www.zillow.com/homedetails/5663-S-Blue-Lune-Ln-Holladay-UT-84121/337859440_zpid/
+"6073 S 2300 E, Holladay, UT 84121",5,5.0,7315,"$3,900,000",3605800,294200,533.1510594668489,https://www.zillow.com/homedetails/6073-S-2300-E-Holladay-UT-84121/12863126_zpid/
+"2419 S Monroe Blvd E, Ogden, UT 84401",3,2.0,1442,"$295,000",0,295000,204.57697642163663,https://www.zillow.com/homedetails/2419-S-Monroe-Blvd-E-Ogden-UT-84401/2072772868_zpid/
+"1621 E Box Elder Cir, Alpine, UT 84004",7,9.0,11261,"$3,990,000",3692850,297150,354.32022022910934,https://www.zillow.com/homedetails/1621-E-Box-Elder-Cir-Alpine-UT-84004/190430135_zpid/
+"665 N Homestead Blvd, Price, UT 84501",4,1.0,1460,"$300,000",0,300000,205.4794520547945,https://www.zillow.com/homedetails/665-N-Homestead-Blvd-Price-UT-84501/2071377207_zpid/
+"6730 Silver Lake Dr, Park City, UT 84060",6,8.0,8730,"$11,500,000",11191964,308036,1317.2966781214204,https://www.zillow.com/homedetails/6730-Silver-Lake-Dr-Park-City-UT-84060/68850846_zpid/
+"3898 E Thousand Oaks Cir, Salt Lake City, UT 84124",5,6.0,10210,"$4,995,000",4683900,311100,489.2262487757101,https://www.zillow.com/homedetails/3898-E-Thousand-Oaks-Cir-Salt-Lake-City-UT-84124/12849512_zpid/
+"637 E 350 N, Provo, UT 84606",2,1.0,912,"$324,900",0,324900,356.25,https://www.zillow.com/homedetails/637-E-350-N-Provo-UT-84606/2073152634_zpid/
+"875 S Depot St #A-227, Clearfield, UT 84015",2,2.0,963,"$325,000",0,325000,337.4870197300104,https://www.zillow.com/homedetails/875-S-Depot-St-A-227-Clearfield-UT-84015/2071688082_zpid/
+"3998 S Vernon Cir APT D-E, Salt Lake City, UT 84124",2,1.0,898,"$330,000",0,330000,367.48329621380844,https://www.zillow.com/homedetails/3998-S-Vernon-Cir-APT-D-E-Salt-Lake-City-UT-84124/2061010851_zpid/
+"3402 Kenna Ln UNIT 4, Ogden, UT 84401",3,3.0,1478,"$340,000",0,340000,230.04059539918808,https://www.zillow.com/homedetails/3402-Kenna-Ln-UNIT-4-Ogden-UT-84401/2067171550_zpid/
+"1554 Westlane Ct, Provo, UT 84601",3,3.0,1664,"$345,000",0,345000,207.33173076923077,https://www.zillow.com/homedetails/1554-Westlane-Ct-Provo-UT-84601/2071357531_zpid/
+"416 N Northshore Dr #1657, Lehi, UT 84043",3,2.0,1311,"$364,990",0,364990,278.40579710144925,https://www.zillow.com/homedetails/416-N-Northshore-Dr-1657-Lehi-UT-84043/2061172825_zpid/
+"11995 E Fairview Dr UNIT A18, Fairview, UT 84629",3,1.0,1008,"$365,000",0,365000,362.1031746031746,https://www.zillow.com/homedetails/11995-E-Fairview-Dr-UNIT-A18-Fairview-UT-84629/2071659902_zpid/
+"1111 Yard Row #1306, Saratoga Springs, UT 84045",3,3.0,1508,"$369,990",0,369990,245.35145888594164,https://www.zillow.com/homedetails/1111-Yard-Row-1306-Saratoga-Springs-UT-84045/2061145534_zpid/
+"144 S 200th St W, American Fork, UT 84003",3,2.0,1515,"$370,000",0,370000,244.22442244224422,https://www.zillow.com/homedetails/144-S-200th-St-W-American-Fork-UT-84003/2067150076_zpid/
+"5720 S Wasatch Blvd, Holladay, UT 84121",4,3.0,2963,"$1,448,888",1077400,371488,488.99358758015524,https://www.zillow.com/homedetails/5720-S-Wasatch-Blvd-Holladay-UT-84121/251207050_zpid/
+"1460 S Hoytsville Rd, Coalville, UT 84017",3,2.0,1817,"$949,000",575600,373400,522.2894881673087,https://www.zillow.com/homedetails/1460-S-Hoytsville-Rd-Coalville-UT-84017/68841385_zpid/
+"95 Silver Dr, Vineyard, UT 84059",3,2.0,1272,"$374,900",0,374900,294.7327044025157,https://www.zillow.com/homedetails/95-Silver-Dr-Vineyard-UT-84059/2063077411_zpid/
+"46 E Center St, Fairview, UT 84629",5,3.0,2856,"$375,900",0,375900,131.61764705882354,https://www.zillow.com/homedetails/46-E-Center-St-Fairview-UT-84629/2062213190_zpid/
+"7260 N Silver Spring Way #2815, Eagle Mountain, UT 84005",3,3.0,2113,"$376,731",0,376731,178.29200189304308,https://www.zillow.com/homedetails/7260-N-Silver-Spring-Way-2815-Eagle-Mountain-UT-84005/2061096483_zpid/
+"3115 Norwich Dr, West Jordan, UT 84088",2,2.0,1411,"$379,900",0,379900,269.2416725726435,https://www.zillow.com/homedetails/3115-Norwich-Dr-West-Jordan-UT-84088/2061145535_zpid/
+"89 N Voyager Ln, Saratoga Springs, UT 84045",3,2.0,1399,"$380,000",0,380000,271.62258756254465,https://www.zillow.com/homedetails/89-N-Voyager-Ln-Saratoga-Springs-UT-84045/2061089209_zpid/
+"633 E Upland Dr S, Tooele, UT 84074",3,1.0,2431,"$380,000",0,380000,156.3142739613328,https://www.zillow.com/homedetails/633-E-Upland-Dr-S-Tooele-UT-84074/2061011014_zpid/
+"87 N 300th St W, Lehi, UT 84043",3,1.0,2223,"$380,000",0,380000,170.94017094017093,https://www.zillow.com/homedetails/87-N-300th-St-W-Lehi-UT-84043/2067134296_zpid/
+"Boston Plan, Urban Collection at Arrowhead Park",2,3.0,1260,"$380,950+",0,380950,302.3412698412698,https://www.zillow.com/community/urban-collection-at-arrowhead-park/2077359046_zpid/
+"1069 W Wenco Dr S, Salt Lake City, UT 84104",4,2.0,1430,"$385,000",0,385000,269.2307692307692,https://www.zillow.com/homedetails/1069-W-Wenco-Dr-S-Salt-Lake-City-UT-84104/2072769419_zpid/
+"810 Brubaker Way, Santaquin, UT 84655",3,3.0,2274,"$389,990",0,389990,171.4995602462621,https://www.zillow.com/homedetails/810-Brubaker-Way-Santaquin-UT-84655/2061050369_zpid/
+"14958 S Soft Whisper Way, Herriman, UT 84096",3,2.0,1966,"$395,000",0,395000,200.91556459816888,https://www.zillow.com/homedetails/14958-S-Soft-Whisper-Way-Herriman-UT-84096/2061785560_zpid/
+"3757 S Cardiff Way E #2, Bountiful, UT 84010",3,3.0,2097,"$395,000",0,395000,188.3643299952313,https://www.zillow.com/homedetails/3757-S-Cardiff-Way-E-2-Bountiful-UT-84010/2061092570_zpid/
+"267 Country Clb, Tooele, UT 84074",4,2.0,2338,"$399,000",0,399000,170.65868263473052,https://www.zillow.com/homedetails/267-Country-Clb-Tooele-UT-84074/2062239347_zpid/
+"609 N Seagull Dr E, Tooele, UT 84074",4,2.0,2082,"$399,500",0,399500,191.88280499519692,https://www.zillow.com/homedetails/609-N-Seagull-Dr-E-Tooele-UT-84074/2061442891_zpid/
+"1813 S 250 W, Clearfield, UT 84015",3,2.0,1685,"$399,900",0,399900,237.32937685459942,https://www.zillow.com/homedetails/1813-S-250-W-Clearfield-UT-84015/12702221_zpid/
+"759 Grove Creek Dr, Pleasant Grove, UT 84062",3,3.0,1571,"$399,900",0,399900,254.55124124761298,https://www.zillow.com/homedetails/759-Grove-Creek-Dr-Pleasant-Grove-UT-84062/2061019571_zpid/
+"3734 W Pure Nirvana Ln, Herriman, UT 84096",3,2.0,2093,"$400,000",0,400000,191.11323459149546,https://www.zillow.com/homedetails/3734-W-Pure-Nirvana-Ln-Herriman-UT-84096/2062308505_zpid/
+"6785 N 2200 W APT A205, Park City, UT 84098",1,2.0,715,"$410,000",0,410000,573.4265734265734,https://www.zillow.com/homedetails/6785-N-2200-W-APT-A205-Park-City-UT-84098/2072773740_zpid/
+"6774 Bottlebrush Ln, West Jordan, UT 84081",4,3.0,1890,"$413,900",0,413900,218.994708994709,https://www.zillow.com/homedetails/6774-Bottlebrush-Ln-West-Jordan-UT-84081/2064106690_zpid/
+"645 E 900th St N #17, Lehi, UT 84043",,,1,"$415,000",0,415000,415000.0,https://www.zillow.com/homedetails/645-E-900th-St-N-17-Lehi-UT-84043/2061010234_zpid/
+"3938 W Davencourt Loop N, Lehi, UT 84043",3,4.0,2057,"$415,000",0,415000,201.7501215362178,https://www.zillow.com/homedetails/3938-W-Davencourt-Loop-N-Lehi-UT-84043/2072292447_zpid/
+"1296 Cherry Ln #142, Payson, UT 84651",3,3.0,1475,"$424,990",0,424990,288.12881355932205,https://www.zillow.com/homedetails/1296-Cherry-Ln-142-Payson-UT-84651/2061011319_zpid/
+"10219 E Moose Loop Rd, Salt Lake City, UT 84121",1,1.0,680,"$429,000",0,429000,630.8823529411765,https://www.zillow.com/homedetails/10219-E-Moose-Loop-Rd-Salt-Lake-City-UT-84121/2061789826_zpid/
+"4504 S Holladay Cir, Salt Lake City, UT 84117",3,1.0,1249,"$434,900",0,434900,348.19855884707766,https://www.zillow.com/homedetails/4504-S-Holladay-Cir-Salt-Lake-City-UT-84117/12853743_zpid/
+"3271 E Deer Hollow Dr, Sandy, UT 84092",5,11.0,12931,"$7,480,000",7043400,436600,578.454875879669,https://www.zillow.com/homedetails/3271-E-Deer-Hollow-Dr-Sandy-UT-84092/12919850_zpid/
+"65 W Walton Ln, Centerville, UT 84014",2,2.0,1140,"$439,900",0,439900,385.87719298245617,https://www.zillow.com/homedetails/65-W-Walton-Ln-Centerville-UT-84014/2061855863_zpid/
+"210 E 300th St S, Salem, UT 84653",3,2.0,2058,"$449,900",0,449900,218.6103012633625,https://www.zillow.com/homedetails/210-E-300th-St-S-Salem-UT-84653/2067144760_zpid/
+"5383 N Pinecone Rd #206, Midway, UT 84049",,,704,"$450,000",0,450000,639.2045454545455,https://www.zillow.com/homedetails/5383-N-Pinecone-Rd-206-Midway-UT-84049/2061653415_zpid/
+"985 S 950 W #361, American Fork, UT 84003",3,3.0,1896,"$454,900",0,454900,239.92616033755274,https://www.zillow.com/homedetails/985-S-950-W-361-American-Fork-UT-84003/2061010669_zpid/
+"1149 N Abbotsford Dr W, North Salt Lake, UT 84054",3,3.0,1770,"$455,000",0,455000,257.0621468926554,https://www.zillow.com/homedetails/1149-N-Abbotsford-Dr-W-North-Salt-Lake-UT-84054/2072620989_zpid/
+"841 E 300th St N, American Fork, UT 84003",4,3.0,2052,"$474,900",0,474900,231.4327485380117,https://www.zillow.com/homedetails/841-E-300th-St-N-American-Fork-UT-84003/2061223794_zpid/
+"3181 W 300 N, Clearfield, UT 84015",4,2.0,2350,"$475,000",0,475000,202.12765957446808,https://www.zillow.com/homedetails/3181-W-300-N-Clearfield-UT-84015/2071352553_zpid/
+"682 E 70 S, Ephraim, UT 84627",3,2.0,3000,"$475,000",0,475000,158.33333333333334,https://www.zillow.com/homedetails/682-E-70-S-Ephraim-UT-84627/2062052307_zpid/
+"1404 S Beaver Bench Rd #1305, Heber City, UT 84032",2,2.0,1165,"$476,000",0,476000,408.58369098712444,https://www.zillow.com/homedetails/1404-S-Beaver-Bench-Rd-1305-Heber-City-UT-84032/2061694549_zpid/
+"1404 S Beaver Bench Rd, Heber, UT 84032",2,2.0,1165,"$476,000",0,476000,408.58369098712444,https://www.zillow.com/homedetails/1404-S-Beaver-Bench-Rd-Heber-UT-84032/245824165_zpid/
+"396 W 300th St N, American Fork, UT 84003",3,1.0,2068,"$480,000",0,480000,232.1083172147002,https://www.zillow.com/homedetails/396-W-300th-St-N-American-Fork-UT-84003/2067184966_zpid/
+"894 S 560 W, American Fork, UT 84003",4,4.0,2240,"$484,900",0,484900,216.47321428571428,https://www.zillow.com/homedetails/894-S-560-W-American-Fork-UT-84003/2061143503_zpid/
+"1129 S Apricot Cir E, Grantsville, UT 84029",4,2.0,3188,"$485,500",0,485500,152.28983688833125,https://www.zillow.com/homedetails/1129-S-Apricot-Cir-E-Grantsville-UT-84029/2061441906_zpid/
+"3355 E Golden Eagle Rd, Eagle Mountain, UT 84005",4,2.0,1836,"$489,000",0,489000,266.33986928104576,https://www.zillow.com/homedetails/3355-E-Golden-Eagle-Rd-Eagle-Mountain-UT-84005/2071478690_zpid/
+"214 N 250 E LOT 7, Salem, UT 84653",4,3.0,2064,"$489,900",0,489900,237.3546511627907,https://www.zillow.com/homedetails/214-N-250-E-LOT-7-Salem-UT-84653/2061172495_zpid/
+"337 E 460th St S, Lehi, UT 84043",5,3.0,2268,"$495,000",0,495000,218.25396825396825,https://www.zillow.com/homedetails/337-E-460th-St-S-Lehi-UT-84043/2067158252_zpid/
+"526 W Lakeview Dr, Lehi, UT 84043",3,3.0,1638,"$495,000",0,495000,302.1978021978022,https://www.zillow.com/homedetails/526-W-Lakeview-Dr-Lehi-UT-84043/2067179891_zpid/
+"Coral Plan, The Park",3,3.0,1830,"$495,950+",0,495950,271.0109289617486,https://www.zillow.com/community/park/2068815426_zpid/
+"441 E 200th St S, Kaysville, UT 84037",3,2.0,2384,"$498,000",0,498000,208.89261744966444,https://www.zillow.com/homedetails/441-E-200th-St-S-Kaysville-UT-84037/2061186622_zpid/
+"755 W 2180th St N, Lehi, UT 84043",4,3.0,1921,"$499,000",0,499000,259.76054138469544,https://www.zillow.com/homedetails/755-W-2180th-St-N-Lehi-UT-84043/2061266629_zpid/
+"248 Piper Ln, Eagle Mountain, UT 84005",3,3.0,2696,"$500,000",0,500000,185.459940652819,https://www.zillow.com/homedetails/248-Piper-Ln-Eagle-Mountain-UT-84005/2061016012_zpid/
+"248 Piper Ln #4, Eagle Mountain, UT 84005",3,3.0,2696,"$500,000",0,500000,185.459940652819,https://www.zillow.com/homedetails/248-Piper-Ln-4-Eagle-Mountain-UT-84005/2072195163_zpid/
+"360 W Broadway UNIT 603, Salt Lake City, UT 84101",2,1.0,723,"$500,000",0,500000,691.5629322268327,https://www.zillow.com/homedetails/360-W-Broadway-UNIT-603-Salt-Lake-City-UT-84101/2061608507_zpid/
+"11021 S Radicchio Dr W, South Jordan, UT 84009",3,2.0,1557,"$505,000",0,505000,324.3416827231856,https://www.zillow.com/homedetails/11021-S-Radicchio-Dr-W-South-Jordan-UT-84009/2071476615_zpid/
+"2307 E 290 N, Tooele, UT 84074",3,2.0,2751,"$506,900",0,506900,184.26026899309343,https://www.zillow.com/homedetails/2307-E-290-N-Tooele-UT-84074/2061036586_zpid/
+"1720 Temple St, Salt Lake City, UT 84115",3,2.0,1700,"$515,000",0,515000,302.94117647058823,https://www.zillow.com/homedetails/1720-Temple-St-Salt-Lake-City-UT-84115/2061011737_zpid/
+"578 E 3450th St N, Lehi, UT 84043",3,3.0,3344,"$520,000",0,520000,155.5023923444976,https://www.zillow.com/homedetails/578-E-3450th-St-N-Lehi-UT-84043/2067150883_zpid/
+"2981 Imperial St, Salt Lake City, UT 84106",3,3.0,2006,"$524,999",0,524999,261.7143569292124,https://www.zillow.com/homedetails/2981-Imperial-St-Salt-Lake-City-UT-84106/2061614707_zpid/
+"5822 E Caribou Dr, Kamas, UT 84036",2,1.0,800,"$525,000",0,525000,656.25,https://www.zillow.com/homedetails/5822-E-Caribou-Dr-Kamas-UT-84036/2061182152_zpid/
+"3507 S Bayview Dr W, Syracuse, UT 84075",4,3.0,1826,"$525,000",0,525000,287.51369112814893,https://www.zillow.com/homedetails/3507-S-Bayview-Dr-W-Syracuse-UT-84075/2068754363_zpid/
+"745 S 900th Rd E, Orem, UT 84097",3,3.0,2436,"$527,900",0,527900,216.70771756978652,https://www.zillow.com/homedetails/745-S-900th-Rd-E-Orem-UT-84097/2072299606_zpid/
+"156 Washington Ave, Salt Lake City, UT 84107",4,2.0,2096,"$535,000",0,535000,255.24809160305344,https://www.zillow.com/homedetails/156-Washington-Ave-Salt-Lake-City-UT-84107/2061303603_zpid/
+"6783 E Spring Mountain Dr #27, Springville, UT 84663",2,1.0,1058,"$545,000",0,545000,515.1228733459358,https://www.zillow.com/homedetails/6783-E-Spring-Mountain-Dr-27-Springville-UT-84663/2061863797_zpid/
+"497 W 300th St N, Springville, UT 84663",4,3.0,1878,"$549,000",0,549000,292.33226837060704,https://www.zillow.com/homedetails/497-W-300th-St-N-Springville-UT-84663/2061447504_zpid/
+"3426 Willow Loop, Lehi, UT 84043",3,3.0,2564,"$549,900",0,549900,214.46957878315132,https://www.zillow.com/homedetails/3426-Willow-Loop-Lehi-UT-84043/2061018806_zpid/
+"112 W Autumn Ln, Saratoga Springs, UT 84045",4,5.0,2502,"$549,900",0,549900,219.7841726618705,https://www.zillow.com/homedetails/112-W-Autumn-Ln-Saratoga-Springs-UT-84045/309896525_zpid/
+"2816 2900 #523, Syracuse, UT 84075",4,3.0,2348,"$549,990",0,549990,234.23764906303236,https://www.zillow.com/homedetails/2816-2900-523-Syracuse-UT-84075/2061011145_zpid/
+"901 Apple Ln, Pleasant Grove, UT 84062",5,3.0,3079,"$549,999",0,549999,178.62910035725886,https://www.zillow.com/homedetails/901-Apple-Ln-Pleasant-Grove-UT-84062/2062361677_zpid/
+"714 N 300th St W, American Fork, UT 84003",6,4.0,2233,"$555,000",0,555000,248.54455888938648,https://www.zillow.com/homedetails/714-N-300th-St-W-American-Fork-UT-84003/2067332451_zpid/
+"216 W 400 S, Orem, UT 84058",4,3.0,2805,"$560,000",0,560000,199.64349376114083,https://www.zillow.com/homedetails/216-W-400-S-Orem-UT-84058/2067161514_zpid/
+"269 N A St, Salt Lake City, UT 84103",5,11.0,11801,"$12,950,000",12388833,561167,1097.3646301160918,https://www.zillow.com/homedetails/269-N-A-St-Salt-Lake-City-UT-84103/12718723_zpid/
+"Helena Plan, The Park",3,3.0,1990,"$563,950+",0,563950,283.39195979899495,https://www.zillow.com/community/park/2068815423_zpid/
+"2202 W 1040th St S, Lehi, UT 84043",4,2.0,2007,"$569,000",0,569000,283.5077229696064,https://www.zillow.com/homedetails/2202-W-1040th-St-S-Lehi-UT-84043/2067184242_zpid/
+"986 W 1840 S, Syracuse, UT 84075",3,3.0,2266,"$569,900",0,569900,251.50044130626654,https://www.zillow.com/homedetails/986-W-1840-S-Syracuse-UT-84075/2061016399_zpid/
+"1513 S Lake View Terrace Rd, Saratoga Springs, UT 84045",5,4.0,3585,"$575,000",0,575000,160.3905160390516,https://www.zillow.com/homedetails/1513-S-Lake-View-Terrace-Rd-Saratoga-Springs-UT-84045/122540945_zpid/
+"483 W 200 N, Santaquin, UT 84655",4,4.0,2640,"$579,000",0,579000,219.3181818181818,https://www.zillow.com/homedetails/483-W-200-N-Santaquin-UT-84655/2061904601_zpid/
+"1105 E Longview Dr, Kamas, UT 84036",,0.0,1,"$579,000",0,579000,579000.0,https://www.zillow.com/homedetails/1105-E-Longview-Dr-Kamas-UT-84036/2066042436_zpid/
+"6861 N 2200 W APT 9X, Park City, UT 84098",2,2.0,1014,"$579,900",0,579900,571.8934911242603,https://www.zillow.com/homedetails/6861-N-2200-W-APT-9X-Park-City-UT-84098/68841446_zpid/
+"3960 S Brian Cir, Coalville, UT 84017",3,2.0,1410,"$595,000",0,595000,421.98581560283685,https://www.zillow.com/homedetails/3960-S-Brian-Cir-Coalville-UT-84017/2062147481_zpid/
+"1236 E Main St, Wellington, UT 84542",4,2.0,3134,"$599,000",0,599000,191.12954690491384,https://www.zillow.com/homedetails/1236-E-Main-St-Wellington-UT-84542/2076599005_zpid/
+"1294 W Maple Pl, Coalville, UT 84017",3,2.0,2180,"$599,500",0,599500,275.0,https://www.zillow.com/homedetails/1294-W-Maple-Pl-Coalville-UT-84017/218318315_zpid/
+"362 W Cimarron Ave S, Saratoga Springs, UT 84045",6,4.0,3121,"$599,900",0,599900,192.21403396347324,https://www.zillow.com/homedetails/362-W-Cimarron-Ave-S-Saratoga-Springs-UT-84045/2071410222_zpid/
+"1669 N 2560th St W, Lehi, UT 84043",6,3.0,3411,"$599,900",0,599900,175.87217824684842,https://www.zillow.com/homedetails/1669-N-2560th-St-W-Lehi-UT-84043/2061205674_zpid/
+"764 N Sunset Dr, Morgan, UT 84050",3,2.0,3102,"$600,000",0,600000,193.42359767891682,https://www.zillow.com/homedetails/764-N-Sunset-Dr-Morgan-UT-84050/2061866687_zpid/
+"836 S 900 W, American Fork, UT 84003",3,3.0,1913,"$600,000",0,600000,313.64349189754313,https://www.zillow.com/homedetails/836-S-900-W-American-Fork-UT-84003/2067792702_zpid/
+"186 White Pine Canyon Rd, Park City, UT 84060",6,10.0,9645,"$14,870,000",14258900,611100,1541.7314670813894,https://www.zillow.com/homedetails/186-White-Pine-Canyon-Rd-Park-City-UT-84060/111975875_zpid/
+"5027 Woodacre Rd, West Jordan, UT 84081",6,3.0,3068,"$615,000",0,615000,200.45632333767927,https://www.zillow.com/homedetails/5027-Woodacre-Rd-West-Jordan-UT-84081/2061186870_zpid/
+"14837 S Beckenbauer Ave W, Herriman, UT 84096",4,4.0,3024,"$625,000",0,625000,206.67989417989418,https://www.zillow.com/homedetails/14837-S-Beckenbauer-Ave-W-Herriman-UT-84096/2061016894_zpid/
+"280 N 500th St E, American Fork, UT 84003",6,4.0,3320,"$625,000",0,625000,188.25301204819277,https://www.zillow.com/homedetails/280-N-500th-St-E-American-Fork-UT-84003/2062217607_zpid/
+"5878 Arlinridge Dr, Herriman, UT 84096",5,4.0,2843,"$629,900",0,629900,221.5617305663032,https://www.zillow.com/homedetails/5878-Arlinridge-Dr-Herriman-UT-84096/2062264560_zpid/
+"2228 Emerald Ave #206, Eagle Mountain, UT 84005",4,3.0,3733,"$629,990",0,629990,168.7623894990624,https://www.zillow.com/homedetails/2228-Emerald-Ave-206-Eagle-Mountain-UT-84005/2063318080_zpid/
+"1394 W Breaker Point Way, Riverton, UT 84065",6,3.0,3310,"$649,900",0,649900,196.34441087613294,https://www.zillow.com/homedetails/1394-W-Breaker-Point-Way-Riverton-UT-84065/2063387875_zpid/
+"3789 N 670th St W, Lehi, UT 84043",5,4.0,3163,"$650,000",0,650000,205.50110654441986,https://www.zillow.com/homedetails/3789-N-670th-St-W-Lehi-UT-84043/2061100205_zpid/
+"1841 S Beaver Bench Rd #1431, Heber City, UT 84032",2,2.0,1396,"$650,000",0,650000,465.6160458452722,https://www.zillow.com/homedetails/1841-S-Beaver-Bench-Rd-1431-Heber-City-UT-84032/2062724437_zpid/
+"4606 S Browning Dr #211, Saratoga Springs, UT 84045",4,3.0,3669,"$655,075",0,655075,178.54319978195693,https://www.zillow.com/homedetails/4606-S-Browning-Dr-211-Saratoga-Springs-UT-84045/2061225167_zpid/
+"11562 S Bingham Rim Rd W #356, South Jordan, UT 84009",3,3.0,2903,"$669,900",0,669900,230.76128143300033,https://www.zillow.com/homedetails/11562-S-Bingham-Rim-Rd-W-356-South-Jordan-UT-84009/2061013740_zpid/
+"1384 N 450 E, Orem, UT 84097",10,13.0,30386,"$25,000,000",24328800,671200,822.7473178437439,https://www.zillow.com/homedetails/1384-N-450-E-Orem-UT-84097/11940122_zpid/
+"4110 Oakview Dr #158, Coalville, UT 84017",3,2.0,1691,"$674,500",0,674500,398.87640449438203,https://www.zillow.com/homedetails/4110-Oakview-Dr-158-Coalville-UT-84017/2062454160_zpid/
+"2232 Birdsong Rd, West Valley City, UT 84119",5,4.0,3104,"$675,000",0,675000,217.46134020618555,https://www.zillow.com/homedetails/2232-Birdsong-Rd-West-Valley-City-UT-84119/2061230911_zpid/
+"865 Ada Loop #625, Lehi, UT 84043",3,3.0,4086,"$679,990",0,679990,166.41948115516396,https://www.zillow.com/homedetails/865-Ada-Loop-625-Lehi-UT-84043/2061304884_zpid/
+"1022 N 1020th St E #247, American Fork, UT 84003",4,3.0,2634,"$689,990",0,689990,261.9552012148823,https://www.zillow.com/homedetails/1022-N-1020th-St-E-247-American-Fork-UT-84003/2061738884_zpid/
+"13423 Sunset Shadow Ln, Herriman, UT 84096",6,4.0,3708,"$695,000",0,695000,187.43257820927724,https://www.zillow.com/homedetails/13423-Sunset-Shadow-Ln-Herriman-UT-84096/2062194376_zpid/
+"5428 Sierra Rose Dr, Herriman, UT 84096",5,3.0,3182,"$699,000",0,699000,219.67316153362665,https://www.zillow.com/homedetails/5428-Sierra-Rose-Dr-Herriman-UT-84096/2061962155_zpid/
+"3891 S McGregor Ln, Saratoga Springs, UT 84045",4,3.0,4390,"$699,000",0,699000,159.2255125284738,https://www.zillow.com/homedetails/3891-S-McGregor-Ln-Saratoga-Springs-UT-84045/2072940136_zpid/
+"3274 S Blue Heron Dr, Saratoga Springs, UT 84045",3,3.0,3064,"$699,500",0,699500,228.2963446475196,https://www.zillow.com/homedetails/3274-S-Blue-Heron-Dr-Saratoga-Springs-UT-84045/2061110898_zpid/
+"1874 Chimney Stone Ct, Draper, UT 84020",5,4.0,3861,"$699,900",0,699900,181.27428127428126,https://www.zillow.com/homedetails/1874-Chimney-Stone-Ct-Draper-UT-84020/2061653263_zpid/
+"9270 Mountain Bluebird Ln, Park City, UT 84098",7,8.0,10007,"$14,995,000",14280952,714048,1498.4510842410314,https://www.zillow.com/homedetails/9270-Mountain-Bluebird-Ln-Park-City-UT-84098/248267708_zpid/
+"2304 S Oneida St, Salt Lake City, UT 84109",7,11.0,15540,"$16,950,000",16226815,723185,1090.7335907335907,https://www.zillow.com/homedetails/2304-S-Oneida-St-Salt-Lake-City-UT-84109/12778612_zpid/
+"564 S 5 E, Vineyard, UT 84059",4,4.0,3782,"$725,000",0,725000,191.69751454257008,https://www.zillow.com/homedetails/564-S-5-E-Vineyard-UT-84059/82729803_zpid/
+"54 N Desert Sage Cir, Saratoga Springs, UT 84045",5,4.0,3360,"$734,900",0,734900,218.7202380952381,https://www.zillow.com/homedetails/54-N-Desert-Sage-Cir-Saratoga-Springs-UT-84045/333093246_zpid/
+"9930 N Wildflower Cir, Pleasant Grove, UT 84062",6,4.0,3558,"$737,800",0,737800,207.3636874648679,https://www.zillow.com/homedetails/9930-N-Wildflower-Cir-Pleasant-Grove-UT-84062/2071465852_zpid/
+"2862 S Preening Way, Saratoga Springs, UT 84045",4,4.0,3880,"$739,900",0,739900,190.6958762886598,https://www.zillow.com/homedetails/2862-S-Preening-Way-Saratoga-Springs-UT-84045/2061006623_zpid/
+"137 E Catamaran Way UNIT 201, Saratoga Springs, UT 84045",4,3.0,3676,"$740,000",0,740000,201.3057671381937,https://www.zillow.com/homedetails/137-E-Catamaran-Way-UNIT-201-Saratoga-Springs-UT-84045/2074054294_zpid/
+"11594 S Windstone Cir W, South Jordan, UT 84009",6,3.0,3774,"$743,000",0,743000,196.87334393216747,https://www.zillow.com/homedetails/11594-S-Windstone-Cir-W-South-Jordan-UT-84009/2071461030_zpid/
+"9416 S Gentry Park Cir, South Jordan, UT 84095",7,4.0,3743,"$745,000",0,745000,199.03820464867752,https://www.zillow.com/homedetails/9416-S-Gentry-Park-Cir-South-Jordan-UT-84095/2062670666_zpid/
+"57 Midland Dr, Saratoga Springs, UT 84045",4,3.0,4269,"$749,000",0,749000,175.4509252752401,https://www.zillow.com/homedetails/57-Midland-Dr-Saratoga-Springs-UT-84045/2061138229_zpid/
+"987 N 1850th St W, Lehi, UT 84043",6,4.0,3813,"$785,000",0,785000,205.8746393915552,https://www.zillow.com/homedetails/987-N-1850th-St-W-Lehi-UT-84043/2067140087_zpid/
+"3564 Wishbone Pl, Kamas, UT 84036",,0.0,1,"$799,000",0,799000,799000.0,https://www.zillow.com/homedetails/3564-Wishbone-Pl-Kamas-UT-84036/2062964974_zpid/
+"755 S Oak Ln, Kamas, UT 84036",4,4.0,2763,"$799,106",0,799106,289.2167933405718,https://www.zillow.com/homedetails/755-S-Oak-Ln-Kamas-UT-84036/2063082393_zpid/
+"2099 E 750 N #43, Spanish Fork, UT 84660",4,5.0,4809,"$823,650",0,823650,171.27261384903306,https://www.zillow.com/homedetails/2099-E-750-N-43-Spanish-Fork-UT-84660/2061014113_zpid/
+"123 Sierra Bonita Ct, Mapleton, UT 84664",7,5.0,4380,"$875,000",0,875000,199.7716894977169,https://www.zillow.com/homedetails/123-Sierra-Bonita-Ct-Mapleton-UT-84664/2061202708_zpid/
+"299 S 3300 W #315, Layton, UT 84041",5,5.0,3894,"$889,900",0,889900,228.5310734463277,https://www.zillow.com/homedetails/299-S-3300-W-315-Layton-UT-84041/2061021520_zpid/
+"4196 S Normandie Ln E, Salt Lake City, UT 84107",8,5.0,4366,"$895,000",0,895000,204.99312872194227,https://www.zillow.com/homedetails/4196-S-Normandie-Ln-E-Salt-Lake-City-UT-84107/2061018758_zpid/
+"1215 W Interlaken Way #109, Midway, UT 84049",6,3.0,3328,"$899,900",0,899900,270.4026442307692,https://www.zillow.com/homedetails/1215-W-Interlaken-Way-109-Midway-UT-84049/2061707456_zpid/
+"111 S Eagles Nest Ave #1, Lindon, UT 84042",4,3.0,4588,"$915,000",0,915000,199.43330427201394,https://www.zillow.com/homedetails/111-S-Eagles-Nest-Ave-1-Lindon-UT-84042/2062401017_zpid/
+"95 E Aspen Dr #69, Park City, UT 84098",3,3.0,2550,"$970,000",0,970000,380.3921568627451,https://www.zillow.com/homedetails/95-E-Aspen-Dr-69-Park-City-UT-84098/2061616241_zpid/
+"6010 N Fox Point Cir #C2, Park City, UT 84098",3,3.0,1467,"$975,000",0,975000,664.6216768916155,https://www.zillow.com/homedetails/6010-N-Fox-Point-Cir-C2-Park-City-UT-84098/68854785_zpid/
+"2010 E Redondo Pl S, Salt Lake City, UT 84108",3,3.0,2188,"$985,000",0,985000,450.1828153564899,https://www.zillow.com/homedetails/2010-E-Redondo-Pl-S-Salt-Lake-City-UT-84108/2061144696_zpid/
+"4376 E Churchill Dr, Provo, UT 84604",6,5.0,4306,"$998,000",0,998000,231.769623780771,https://www.zillow.com/homedetails/4376-E-Churchill-Dr-Provo-UT-84604/2061663618_zpid/
+"3853 Rising Star Ln, Park City, UT 84060",6,9.0,12063,"$13,950,000",12927801,1022199,1156.4287490673962,https://www.zillow.com/homedetails/3853-Rising-Star-Ln-Park-City-UT-84060/68846851_zpid/
+"133 W Sunny Brook Ct #213, Tooele, UT 84074",5,3.0,5523,"$1,074,900",0,1074900,194.62248777838133,https://www.zillow.com/homedetails/133-W-Sunny-Brook-Ct-213-Tooele-UT-84074/2061010653_zpid/
+"4779 Balsam Dr, Park City, UT 84098",3,3.0,2664,"$1,100,000",0,1100000,412.91291291291293,https://www.zillow.com/homedetails/4779-Balsam-Dr-Park-City-UT-84098/68846353_zpid/
+"7687 S Winterdale Cir #7689, Salt Lake City, UT 84121",8,6.0,3644,"$1,195,000",0,1195000,327.9363336992316,https://www.zillow.com/homedetails/7687-S-Winterdale-Cir-7689-Salt-Lake-City-UT-84121/2061136274_zpid/
+"4696 W 10250 N, Highland, UT 84003",4,4.0,4628,"$1,199,900",0,1199900,259.2696629213483,https://www.zillow.com/homedetails/4696-W-10250-N-Highland-UT-84003/2062907459_zpid/
+"8115 Glenwild Dr, Park City, UT 84098",4,6.0,6294,"$5,350,000",4146300,1203700,850.015888147442,https://www.zillow.com/homedetails/8115-Glenwild-Dr-Park-City-UT-84098/68842422_zpid/
+"2470 W White Pine Ln, Park City, UT 84060",4,6.0,10286,"$29,950,000",28733324,1216676,2911.7246743146025,https://www.zillow.com/homedetails/2470-W-White-Pine-Ln-Park-City-UT-84060/111975877_zpid/
+"1519 S 825th St W, Lehi, UT 84043",8,5.0,4992,"$1,299,000",0,1299000,260.21634615384613,https://www.zillow.com/homedetails/1519-S-825th-St-W-Lehi-UT-84043/2067148308_zpid/
+"923 Ledgestone Ln, Heber City, UT 84032",5,5.0,4825,"$1,349,000",0,1349000,279.5854922279793,https://www.zillow.com/homedetails/923-Ledgestone-Ln-Heber-City-UT-84032/2117617885_zpid/
+"433 W Sharon Ln, Midway, UT 84049",4,3.0,4408,"$1,479,005",0,1479005,335.5274500907441,https://www.zillow.com/homedetails/433-W-Sharon-Ln-Midway-UT-84049/2061021048_zpid/
+"143 White Pine Canyon Rd, Park City, UT 84060",7,10.0,11170,"$19,500,000",18015484,1484516,1745.7475380483438,https://www.zillow.com/homedetails/143-White-Pine-Canyon-Rd-Park-City-UT-84060/111974106_zpid/
+"5712 W Woodland Dr #18, Morgan, UT 84050",5,5.0,5500,"$1,495,000",0,1495000,271.8181818181818,https://www.zillow.com/homedetails/5712-W-Woodland-Dr-18-Morgan-UT-84050/2061220837_zpid/
+"1968 Reservoir View Dr, Kamas, UT 84036",,0.0,1,"$1,600,000",0,1600000,1600000.0,https://www.zillow.com/homedetails/1968-Reservoir-View-Dr-Kamas-UT-84036/2067756383_zpid/
+"8847 Northcove Dr, Park City, UT 84098",5,4.0,3500,"$1,690,000",0,1690000,482.85714285714283,https://www.zillow.com/homedetails/8847-Northcove-Dr-Park-City-UT-84098/2077112551_zpid/
+"5237 Hillsden Dr, Salt Lake City, UT 84117",4,3.0,4036,"$1,700,000",0,1700000,421.20911793855305,https://www.zillow.com/homedetails/5237-Hillsden-Dr-Salt-Lake-City-UT-84117/2061018283_zpid/
+"11 Red Cloud Trl, Park City, UT 84060",5,11.0,15000,"$33,500,000",31736842,1763158,2233.3333333333335,https://www.zillow.com/homedetails/11-Red-Cloud-Trl-Park-City-UT-84060/97303635_zpid/
+"920 S Cascade Ct, Midway, UT 84049",6,5.0,7355,"$1,799,000",0,1799000,244.59551325628823,https://www.zillow.com/homedetails/920-S-Cascade-Ct-Midway-UT-84049/2111428626_zpid/
+"850 N 300 E, Nephi, UT 84648",3,2.0,800,"$1,800,000",0,1800000,2250.0,https://www.zillow.com/homedetails/850-N-300-E-Nephi-UT-84648/2069811084_zpid/
+"559 W Dally Dr #11, Alpine, UT 84004",6,4.0,8925,"$2,000,000",0,2000000,224.08963585434174,https://www.zillow.com/homedetails/559-W-Dally-Dr-11-Alpine-UT-84004/2069423674_zpid/
+"6256 Deer Valley Loop, Park City, UT 84060",2,3.0,1880,"$2,050,000",0,2050000,1090.4255319148936,https://www.zillow.com/homedetails/6256-Deer-Valley-Loop-Park-City-UT-84060/2076787893_zpid/
+"1524 E Bountiful Blvd, Bountiful, UT 84010",5,7.0,7883,"$3,195,000",0,3195000,405.30254979068883,https://www.zillow.com/homedetails/1524-E-Bountiful-Blvd-Bountiful-UT-84010/2061705722_zpid/
+"1465 S 200 W, Midway, UT 84049",7,6.0,6488,"$3,199,999",0,3199999,493.2180949445129,https://www.zillow.com/homedetails/1465-S-200-W-Midway-UT-84049/227705600_zpid/
+"262 N 350 W, Vineyard, UT 84059",9,8.0,9901,"$3,950,000",0,3950000,398.94960105039894,https://www.zillow.com/homedetails/262-N-350-W-Vineyard-UT-84059/333091641_zpid/
+"106 N Legacy Way, Heber City, UT 84032",8,12.0,0,"$4,175,000",0,4175000,inf,https://www.zillow.com/homedetails/106-N-Legacy-Way-Heber-City-UT-84032/2065524055_zpid/
+"7687 N Promontory Ranch Rd, Park City, UT 84098",6,7.0,8915,"$9,200,000",0,9200000,1031.9685922602355,https://www.zillow.com/homedetails/7687-N-Promontory-Ranch-Rd-Park-City-UT-84098/111975995_zpid/
+"2987 W Jordanelle View Dr, Park City, UT 84060",7,11.0,11376,"$11,995,000",0,11995000,1054.4127988748241,https://www.zillow.com/homedetails/2987-W-Jordanelle-View-Dr-Park-City-UT-84060/2062964950_zpid/
+"2987 W Jordanelle Way, Park City, UT 84060",7,10.0,11375,"$11,995,000",0,11995000,1054.5054945054944,https://www.zillow.com/homedetails/2987-W-Jordanelle-Way-Park-City-UT-84060/2062964649_zpid/
+"186 White Pine Ct, Park City, UT 84060",6,10.0,9645,"$14,870,000",0,14870000,1541.7314670813894,https://www.zillow.com/homedetails/186-White-Pine-Ct-Park-City-UT-84060/2061133010_zpid/
+"58 White Pine Ct, Park City, UT 84060",9,8.0,10688,"$14,995,000",0,14995000,1402.9752994011976,https://www.zillow.com/homedetails/58-White-Pine-Ct-Park-City-UT-84060/2061834162_zpid/
+"8272 E Left Fork Hobble Creek Rd, Springville, UT 84663",6,13.0,50738,"$17,500,000",0,17500000,344.9091410776932,https://www.zillow.com/homedetails/8272-E-Left-Fork-Hobble-Creek-Rd-Springville-UT-84663/247989711_zpid/
+"7948 Red Tail Ct, Heber City, UT 84060",6,8.0,10888,"$22,000,000",0,22000000,2020.5731080088171,https://www.zillow.com/homedetails/7948-Red-Tail-Ct-Heber-City-UT-84060/68851239_zpid/
